@@ -1,0 +1,4226 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.17)  19 SEP 2025 14:22
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/chunhuizhao/projects/Modeling-Dynamic-Rupture-Propagation-of-Faults-Using-Fourier-Neural-Operators/main.tex
+(/Users/chunhuizhao/projects/Modeling-Dynamic-Rupture-Propagation-of-Faults-Using-Fourier-Neural-Operators/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(./agujournal2019.cls
+Document Class: agujournal2019 01/14/2019
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2023/05/20 line numbers on paragraphs v5.3
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count188
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+\linenopenalty=\count189
+\output=\toks18
+\linenoprevgraf=\count190
+\linenumbersep=\dimen142
+\linenumberwidth=\dimen143
+\c@linenumber=\count191
+\c@pagewiselinenumber=\count192
+\c@LN@truepage=\count193
+\c@internallinenumber=\count194
+\c@internallinenumbers=\count195
+\quotelinenumbersep=\dimen144
+\bframerule=\dimen145
+\bframesep=\dimen146
+\bframebox=\box51
+LaTeX Info: Redefining \\ on input line 3180.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip48
+\RaggedLeftLeftskip=\skip49
+\RaggedRightLeftskip=\skip50
+\CenteringRightskip=\skip51
+\RaggedLeftRightskip=\skip52
+\RaggedRightRightskip=\skip53
+\CenteringParfillskip=\skip54
+\RaggedLeftParfillskip=\skip55
+\RaggedRightParfillskip=\skip56
+\JustifyingParfillskip=\skip57
+\CenteringParindent=\skip58
+\RaggedLeftParindent=\skip59
+\RaggedRightParindent=\skip60
+\JustifyingParindent=\skip61
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count196
+\rotFPtop=\skip62
+\rotFPbot=\skip63
+\rot@float@box=\box52
+\rot@mess@toks=\toks19
+)
+\draftskip=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
+\abovecaptionskip=\skip64
+\belowcaptionskip=\skip65
+\c@appendnum=\count271
+\bibindent=\dimen147
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count272
+\bibleftmargin=\skip66
+\bibindent=\skip67
+\bibparsep=\skip68
+\bibitemsep=\skip69
+\biblabelsep=\skip70
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks20
+\SOUL@lasttoken=\toks21
+\SOUL@syllable=\toks22
+\SOUL@cmds=\toks23
+\SOUL@buffer=\toks24
+\SOUL@token=\toks25
+\SOUL@syllgoal=\dimen148
+\SOUL@syllwidth=\dimen149
+\SOUL@charkern=\dimen150
+\SOUL@hyphkern=\dimen151
+\SOUL@dimen=\dimen152
+\SOUL@dimeni=\dimen153
+\SOUL@minus=\count273
+\SOUL@comma=\count274
+\SOUL@apo=\count275
+\SOUL@grave=\count276
+\SOUL@spaceskip=\skip71
+\SOUL@ttwidth=\dimen154
+\SOUL@uldp=\dimen155
+\SOUL@ulht=\dimen156
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip72
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen157
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen158
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count277
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count278
+\leftroot@=\count279
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count280
+\DOTSCASE@=\count281
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count282
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count283
+\dotsspace@=\muskip17
+\c@parentequation=\count284
+\dspbrk@lvl=\count285
+\tag@help=\toks27
+\row@=\count286
+\column@=\count287
+\maxfields@=\count288
+\andhelp@=\toks28
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks29
+\multlinegap=\skip73
+\multlinetaggap=\skip74
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+\linenoamsmath@ams@eqpen=\count289
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen166
+\lightrulewidth=\dimen167
+\cmidrulewidth=\dimen168
+\belowrulesep=\dimen169
+\belowbottomsep=\dimen170
+\aboverulesep=\dimen171
+\abovetopsep=\dimen172
+\cmidrulesep=\dimen173
+\cmidrulekern=\dimen174
+\defaultaddspace=\dimen175
+\@cmidla=\count290
+\@cmidlb=\count291
+\@aboverulesep=\dimen176
+\@belowrulesep=\dimen177
+\@thisruleclass=\count292
+\@lastruleclass=\count293
+\@thisrulewidth=\dimen178
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip75
+\f@nch@O@elh=\skip76
+\f@nch@O@erh=\skip77
+\f@nch@O@olh=\skip78
+\f@nch@O@orh=\skip79
+\f@nch@O@elf=\skip80
+\f@nch@O@erf=\skip81
+\f@nch@O@olf=\skip82
+\f@nch@O@orf=\skip83
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip84
+\multirow@cntb=\count294
+\multirow@dima=\skip85
+\bigstrutjot=\dimen179
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box55
+\extrarowheight=\dimen181
+\NC@list=\toks31
+\extratabsurround=\skip86
+\backup@length=\skip87
+\ar@cellbox=\box56
+)
+\rotheadsize=\dimen182
+\c@nlinenum=\count295
+\TeXr@lab=\toks32
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip88
+\L@UnitsRaiseTextstyle=\skip89
+\L@UnitsRaiseScriptstyle=\skip90
+LaTeX Info: Redefining \nicefrac on input line 131.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count296
+\c@@ppsavesec=\count297
+\c@@ppsaveapp=\count298
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/ifsym/ifsym.sty
+Package: ifsym 2000/04/18 I.Kloeckl
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count299
+\calc@Bcount=\count300
+\calc@Adimen=\dimen183
+\calc@Bdimen=\dimen184
+\calc@Askip=\skip91
+\calc@Bskip=\skip92
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count301
+\calc@Cskip=\skip93
+)
+\c@ifsymcnt=\count302
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count303
+\float@exts=\toks33
+\float@box=\box57
+\@float@everytoks=\toks34
+\@floatcapt=\box58
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box59
+\UL@hyphenbox=\box60
+\UL@skip=\skip94
+\UL@hook=\toks35
+\UL@height=\dimen185
+\UL@pe=\count304
+\UL@pixel=\dimen186
+\ULC@box=\box61
+Package: ulem 2019/11/18
+\ULdepth=\dimen187
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 89.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box62
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+ (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count306
+\scratchdimen=\dimen188
+\scratchbox=\box63
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen189
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks37
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@maskedRefs=\count312
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 103.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 124.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 124.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 124.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 124.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 124.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 124.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 124.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 124.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 132.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 132.
+
+Overfull \hbox (8.68329pt too wide) in paragraph at lines 166--167
+[]\OT1/lmr/m/n/10 We de-velop a Fourier Neu-ral Op-er-a-tor (FNO) frame-work to sim-u-late earth-quake 
+ []
+
+
+Overfull \hbox (13.95995pt too wide) in paragraph at lines 166--167
+\OT1/lmr/m/n/10 rup-ture un-der un-der vary-ing con-di-tions of frac-tal stress, nu-cle-ation sites, and fric- 
+ []
+
+
+Overfull \hbox (7.8341pt too wide) in paragraph at lines 167--168
+[]\OT1/lmr/m/n/10 The FNO achieves up to $4 \OMS/lmsy/m/n/10 ^^B \OT1/lmr/m/n/10 10[]$ times speedup com-pared to the Spec-tral Bound- 
+ []
+
+
+Overfull \hbox (1.48698pt too wide) in paragraph at lines 167--168
+\OT1/lmr/m/n/10 ary In-te-gral method, which is cur-rently the fastest avail-able nu-mer-i-cal method.  
+ []
+
+
+Overfull \hbox (19.43225pt too wide) in paragraph at lines 168--169
+[]\OT1/lmr/m/n/10 We demon-strate that the model can gen-er-al-ize to un-seen shear stress and fric-tional 
+ []
+
+[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Overfull \hbox (18.8211pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 Dynamic rup-ture mod-el-ing plays a cru-cial role in un-rav-el-ing earth-quake source pro-cesses. 
+ []
+
+
+Overfull \hbox (8.59822pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 How-ever, the mul-ti-scale na-ture of rup-ture prop-a-ga-tion poses sig-nif-i-cant chal-lenges, and 
+ []
+
+
+Overfull \hbox (3.56984pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 clas-si-cal nu-mer-i-cal meth-ods re-main com-pu-ta-tion-ally ex-pen-sive. To over-come this hur- 
+ []
+
+
+Overfull \hbox (9.43219pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 dle, we present a method-ol-ogy that is both com-pu-ta-tion-ally ef-fi-cient and quan-ti-ta-tively 
+ []
+
+
+Overfull \hbox (4.70915pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 ac-cu-rate. Specif-i-cally, we in-tro-duce a sur-ro-gate model, in the form of a Fourier Neu-ral 
+ []
+
+
+Overfull \hbox (0.12605pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 Op-er-a-tor, for em-u-lat-ing the non-lin-ear equa-tions gov-ern-ing dy-namic rup-ture prop-a-ga- 
+ []
+
+
+Overfull \hbox (21.95987pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 tion on fric-tional in-ter-faces. This sur-ro-gate is trained on syn-thetic data gen-er-ated by mul- 
+ []
+
+
+Overfull \hbox (15.3753pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 ti-ple physics-based dy-namic rup-ture sim-u-la-tions and is then ap-plied to un-seen prob-lems. 
+ []
+
+
+Overfull \hbox (6.01488pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 The pro-posed method-ol-ogy re-tains the ac-cu-racy of tra-di-tional mul-ti-scale meth-ods at a 
+ []
+
+
+Overfull \hbox (10.66745pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 sig-nif-i-cantly re-duced com-pu-ta-tional cost, achiev-ing a speedup of up to $4 \OMS/lmsy/m/n/10 ^^B \OT1/lmr/m/n/10 10[]$ com-pared 
+ []
+
+
+Overfull \hbox (3.26631pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 to the state-of-the-art con-ven-tional meth-ods. We eval-u-ate this ap-proach us-ing var-i-ous 
+ []
+
+
+Overfull \hbox (9.07048pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 ex-am-ples and demon-strate its ef-fi-cacy in cap-tur-ing the space-time evo-lu-tion of fault slip 
+ []
+
+
+Overfull \hbox (5.68224pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 rates for a wide range of stress con-di-tions. This de-vel-op-ment ad-vances the state of the 
+ []
+
+
+Overfull \hbox (2.37624pt too wide) in paragraph at lines 192--194
+\OT1/lmr/m/n/10 art of com-pu-ta-tional earth-quake dy-nam-ics and opens new op-por-tu-ni-ties for ac-cel-er-at- 
+ []
+
+
+Overfull \hbox (15.3757pt too wide) in paragraph at lines 197--198
+[]\OT1/lmr/m/n/10 Earthquakes be-gin when stress builds up and causes sud-den move-ment along faults 
+ []
+
+
+Overfull \hbox (16.54195pt too wide) in paragraph at lines 197--198
+\OT1/lmr/m/n/10 in the Earth's crust. To sim-u-late how an earth-quake spreads, tra-di-tional nu-mer-i-cal mod- 
+ []
+
+
+Overfull \hbox (1.84836pt too wide) in paragraph at lines 197--198
+\OT1/lmr/m/n/10 els are of-ten used. How-ever, these mod-els can be com-pu-ta-tion-ally in-ten-sive and time- 
+ []
+
+
+Overfull \hbox (16.51585pt too wide) in paragraph at lines 197--198
+\OT1/lmr/m/n/10 consuming due to the com-plex-ity of earth-quake pro-cesses. This study in-tro-duces a faster 
+ []
+
+
+Overfull \hbox (1.95964pt too wide) in paragraph at lines 197--198
+\OT1/lmr/m/n/10 way to model earth-quakes us-ing a ma-chine learn-ing tool, specif-i-cally a Fourier Neu-ral 
+ []
+
+
+Overfull \hbox (5.65349pt too wide) in paragraph at lines 197--198
+\OT1/lmr/m/n/10 Op-er-a-tor frame-work. The model learns pat-terns from pre-vi-ous earth-quake sim-u-la-tions 
+ []
+
+
+Overfull \hbox (4.54257pt too wide) in paragraph at lines 197--198
+\OT1/lmr/m/n/10 and uses that knowl-edge to pre-dict how a fault slips un-der dif-fer-ent stress and fric-tion 
+ []
+
+
+Overfull \hbox (7.31995pt too wide) in paragraph at lines 197--198
+\OT1/lmr/m/n/10 di-tional meth-ods, po-ten-tially en-abling the rapid ex-plo-ration of many sce-nar-ios and im- 
+ []
+
+
+Overfull \hbox (1.8494pt too wide) in paragraph at lines 234--235
+[]\OT1/lmr/m/n/10 Earthquakes are among the most de-struc-tive nat-u-ral haz-ards, yet avail-able data 
+ []
+
+
+Overfull \hbox (16.71027pt too wide) in paragraph at lines 234--235
+\OT1/lmr/m/n/10 re-mains lim-ited. Large earth-quake events are rare, and their recorded his-to-ries are short, 
+ []
+
+
+Overfull \hbox (20.82162pt too wide) in paragraph at lines 234--235
+\OT1/lmr/m/n/10 pos-ing chal-lenges for purely data-driven anal-y-ses. Fur-ther-more, be-cause earth-quakes orig- 
+ []
+
+
+Overfull \hbox (3.8762pt too wide) in paragraph at lines 234--235
+\OT1/lmr/m/n/10 i-nate at depths where di-rect mea-sure-ments are im-pos-si-ble, ob-ser-va-tions rely on sparse 
+ []
+
+
+Overfull \hbox (6.04156pt too wide) in paragraph at lines 234--235
+\OT1/lmr/m/n/10 sur-face in-stru-men-ta-tion, of-fer-ing an in-com-plete view of fault dy-nam-ics []Arrowsmith et 
+ []
+
+
+Overfull \hbox (4.32133pt too wide) in paragraph at lines 234--235
+\OT1/lmr/m/n/10 al.[], 2022). Earth-quake mod-el-ing is there-fore es-sen-tial to in-ter-pret lim-ited ob-ser-va-tions 
+ []
+
+
+Overfull \hbox (26.90445pt too wide) in paragraph at lines 234--235
+\OT1/lmr/m/n/10 and in-fer sub-sur-face pro-cesses that can-not be di-rectly mea-sured []Nielsen et al.[], 2000; Duan 
+ []
+
+
+Overfull \hbox (14.08472pt too wide) in paragraph at lines 234--235
+\OT1/lmr/m/n/10 & Oglesby, 2006; Bhat et al.[], 2007; Ma & El-banna, 2019; Rip-perger et al.[], 2007; Gabriel 
+ []
+
+
+Overfull \hbox (15.6272pt too wide) in paragraph at lines 236--237
+[]\OT1/lmr/m/n/10 Modeling earth-quakes is in-her-ently chal-leng-ing, as it re-quires in-te-grat-ing data from 
+ []
+
+
+Overfull \hbox (9.54274pt too wide) in paragraph at lines 236--237
+\OT1/lmr/m/n/10 mul-ti-ple sources, in-clud-ing field ob-ser-va-tions and lab-o-ra-tory ex-per-i-ments, with physics- 
+ []
+
+
+Overfull \hbox (16.41742pt too wide) in paragraph at lines 236--237
+\OT1/lmr/m/n/10 based simulations.[]Johnson et al.[], 2006; Gallovi^^Tc et al.[], 2019a, 2019b; Aochi & Twardzik, 
+ []
+
+
+Overfull \hbox (4.29332pt too wide) in paragraph at lines 236--237
+\OT1/lmr/m/n/10 2020; Van Zelst et al.[], 2019). Ad-di-tion-ally, key fault prop-er-ties re-main un-cer-tain since 
+ []
+
+
+Overfull \hbox (1.01527pt too wide) in paragraph at lines 236--237
+\OT1/lmr/m/n/10 they can-not be di-rectly mea-sured. The mul-ti-scale na-ture of earth-quakes fur-ther com- 
+ []
+
+
+Overfull \hbox (1.18182pt too wide) in paragraph at lines 236--237
+\OT1/lmr/m/n/10 pli-cates the prob-lem. The rup-ture oc-curs within sec-onds, but the re-cur-rence in-ter-vals 
+ []
+
+
+Overfull \hbox (9.46121pt too wide) in paragraph at lines 236--237
+\OT1/lmr/m/n/10 span years to cen-turies. Phys-i-cally, earth-quakes prop-a-gate over kilo-me-ters, whereas the 
+ []
+
+
+Overfull \hbox (12.40317pt too wide) in paragraph at lines 236--237
+\OT1/lmr/m/n/10 rup-ture pro-cess zone might be con-fined to a few me-ters []Lapusta et al.[], 2000; Ben-Zion, 
+ []
+
+
+Overfull \hbox (27.26613pt too wide) in paragraph at lines 236--237
+\OT1/lmr/m/n/10 2008; Chester & Chester, 1998). Ac-cu-rately cap-tur-ing rup-ture dy-nam-ics re-quires ex-tremely 
+ []
+
+
+Overfull \hbox (13.29259pt too wide) in paragraph at lines 236--237
+\OT1/lmr/m/n/10 fine dis-cretiza-tion, of-ten at the sub-meter scale, lead-ing to im-mense com-pu-ta-tional costs 
+ []
+
+
+Overfull \hbox (11.62619pt too wide) in paragraph at lines 238--239
+[]\OT1/lmr/m/n/10 Traditional nu-mer-i-cal meth-ods such as the fi-nite el-e-ment method (FEM) []Oglesby 
+ []
+
+
+Overfull \hbox (17.76543pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 et al.[], 1998, 2000; Aa-gaard et al.[], 2001), fi-nite dif-fer-ence method (FDM) []Andrews, 1973; 
+ []
+
+
+Overfull \hbox (6.23865pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 Day, 1982; Madariaga et al.[], 1998; An-drews, 1999; Dalguer & Day, 2007; Moczo et al.[], 
+ []
+
+
+Overfull \hbox (52.09831pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 2007), and bound-ary in-te-gral meth-ods (BIM) []Das, 1980; An-drews, 1985; Cochard & Madariaga, 
+ []
+
+
+Overfull \hbox (0.1402pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 1994; Geubelle & Rice, 1995) have been widely used for earth-quake sim-u-la-tions . Re- 
+ []
+
+
+Overfull \hbox (15.40352pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 cent ad-vances fo-cus on re-duc-ing com-pu-ta-tional costs while main-tain-ing ac-cu-racy, in-clud- 
+ []
+
+
+Overfull \hbox (11.21016pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 ing hy-brid ap-proaches like the fi-nite el-e-ment{spectral bound-ary in-te-gral method []Ma et 
+ []
+
+
+Overfull \hbox (4.23642pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 al.[], 2019; Ab-delmeguid et al.[], 2019; Ab-delmeguid & El-banna, 2022). How-ever, de-spite 
+ []
+
+
+Overfull \hbox (12.12592pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 these ad-vances, the pri-mary bot-tle-neck in dy-namic rup-ture mod-el-ing re-mains the in-her- 
+ []
+
+
+Overfull \hbox (18.59941pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 ent com-pu-ta-tional in-ten-sity, es-pe-cially in the con-text of dy-namic in-ver-sion for fault stress 
+ []
+
+
+Overfull \hbox (6.65483pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 and fric-tion. Each in-ver-sion re-quires solv-ing the equa-tions gov-ern-ing fault slip across a 
+ []
+
+
+Overfull \hbox (8.09763pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 wide range of pos-si-ble ini-tial con-di-tions, ma-te-rial prop-er-ties, and fric-tional pa-ram-e-ters, 
+ []
+
+
+Overfull \hbox (24.65297pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 of-ten ne-ces-si-tat-ing large num-ber of for-ward model eval-u-a-tions. There-fore, de-vel-op-ing more 
+ []
+
+
+Overfull \hbox (16.79237pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 ef-fi-cient ap-proaches re-mains es-sen-tial to over-come these com-pu-ta-tional chal-lenges. Rapid 
+ []
+
+
+Overfull \hbox (0.4872pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 sim-u-la-tions al-low the study of fault be-hav-ior un-der vary-ing con-di-tions. They also en- 
+ []
+
+
+Overfull \hbox (13.40518pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 able large-scale sta-tis-ti-cal anal-y-ses, help-ing to iden-tify rare or ex-treme events, which are 
+ []
+
+
+Overfull \hbox (3.29294pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 es-sen-tial for seis-mic haz-ard as-sess-ment. Ad-di-tion-ally, ac-cel-er-ated ac-cu-rate sim-u-la-tions 
+ []
+
+
+Overfull \hbox (17.93127pt too wide) in paragraph at lines 238--239
+\OT1/lmr/m/n/10 re-duce the com-pu-ta-tional bur-den of tra-di-tional meth-ods, mak-ing large-scale in-verse anal- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (14.76416pt too wide) in paragraph at lines 240--241
+[]\OT1/lmr/m/n/10 In re-cent years, ma-chine learn-ing meth-ods and reduced-order mod-els have emerged 
+ []
+
+
+Overfull \hbox (10.90308pt too wide) in paragraph at lines 240--241
+\OT1/lmr/m/n/10 as a pow-er-ful tool for ad-dress-ing these com-pu-ta-tional chal-lenges in var-i-ous do-mains, in- 
+ []
+
+
+Overfull \hbox (12.2649pt too wide) in paragraph at lines 240--241
+\OT1/lmr/m/n/10 clud-ing seis-mol-ogy []Zhu et al.[], 2019; L. Yang et al.[], 2022; Zhu & Beroza, 2019; Mousavi 
+ []
+
+
+Overfull \hbox (8.23793pt too wide) in paragraph at lines 240--241
+\OT1/lmr/m/n/10 et al.[], 2020; Ross et al.[], 2018, 2019; Zhu et al.[], 2022; Rekoske et al.[], 2025). Deep learn- 
+ []
+
+
+Overfull \hbox (7.01447pt too wide) in paragraph at lines 240--241
+\OT1/lmr/m/n/10 ing ap-proaches, specif-i-cally neu-ral op-er-a-tors, have shown promise in ap-prox-i-mat-ing so- 
+ []
+
+
+Overfull \hbox (3.821pt too wide) in paragraph at lines 240--241
+\OT1/lmr/m/n/10 lu-tions to par-tial dif-fer-en-tial equa-tions (PDEs), which gov-ern many phys-i-cal pro-cesses 
+ []
+
+
+Overfull \hbox (0.90477pt too wide) in paragraph at lines 240--241
+[]\OT1/lmr/m/n/10 Kovachki et al.[], 2023; Az-iz-zade-nesheli et al.[], 2024; Rah-man et al.[], 2022). Un-like tra- 
+ []
+
+
+Overfull \hbox (9.07037pt too wide) in paragraph at lines 240--241
+\OT1/lmr/m/n/10 di-tional neu-ral net-works, which map finite-dimensional in-put vec-tors to out-put vec-tors, 
+ []
+
+
+Overfull \hbox (6.09741pt too wide) in paragraph at lines 240--241
+\OT1/lmr/m/n/10 neu-ral op-er-a-tors learn map-pings be-tween en-tire func-tions. This ca-pa-bil-ity al-lows them 
+ []
+
+
+Overfull \hbox (21.18163pt too wide) in paragraph at lines 240--241
+\OT1/lmr/m/n/10 to solve com-plex prob-lems gov-erned by PDEs with-out re-quir-ing re-train-ing, en-abling rapid 
+ []
+
+
+Overfull \hbox (29.29306pt too wide) in paragraph at lines 242--243
+[]\OT1/lmr/m/n/10 In seis-mol-ogy, neu-ral op-er-a-tors have been ap-plied to 2D acous-tic wave equa-tion []B. Li 
+ []
+
+
+Overfull \hbox (16.70993pt too wide) in paragraph at lines 242--243
+\OT1/lmr/m/n/10 et al.[], 2023; Y. Yang et al.[], 2021), the elas-tic wave equa-tion []Lehmann et al.[], 2023, 2024; 
+ []
+
+
+Overfull \hbox (19.59888pt too wide) in paragraph at lines 242--243
+\OT1/lmr/m/n/10 Zou et al.[], 2024; Zhang et al.[], 2023), vis-coelas-tic wave mod-els []Wei & Fu, 2022), and full- 
+ []
+
+
+Overfull \hbox (8.7654pt too wide) in paragraph at lines 242--243
+\OT1/lmr/m/n/10 waveform in-ver-sion []Y. Yang et al.[], 2023). While these ap-pli-ca-tions have demon-strated 
+ []
+
+
+Overfull \hbox (11.43149pt too wide) in paragraph at lines 242--243
+\OT1/lmr/m/n/10 the ef-fec-tive-ness of neu-ral op-er-a-tors in han-dling wave prop-a-ga-tion and seis-mic in-ver-sion 
+ []
+
+
+Overfull \hbox (10.9588pt too wide) in paragraph at lines 244--245
+[]\OT1/lmr/m/n/10 Dynamic rup-ture mod-el-ing presents unique chal-lenges for ma-chine learn-ing due to 
+ []
+
+
+Overfull \hbox (7.73703pt too wide) in paragraph at lines 244--245
+\OT1/lmr/m/n/10 the highly non-lin-ear and mul-ti-scale na-ture of fault slip pro-cesses. Cap-tur-ing the evo-lu- 
+ []
+
+
+Overfull \hbox (12.9046pt too wide) in paragraph at lines 244--245
+\OT1/lmr/m/n/10 tion of rup-ture fronts, where stresses and slip rates ex-hibit sharp gra-di-ents, re-quires fine 
+ []
+
+
+Overfull \hbox (10.40373pt too wide) in paragraph at lines 244--245
+\OT1/lmr/m/n/10 spa-tial and tem-po-ral res-o-lu-tion, lead-ing to high com-pu-ta-tional costs. One po-ten-tial ap- 
+ []
+
+
+Overfull \hbox (2.23875pt too wide) in paragraph at lines 244--245
+\OT1/lmr/m/n/10 proach that can ad-dress such chal-lenges is Fourier Neu-ral Op-er-a-tors (FNOs) []Z. Li et 
+ []
+
+
+Overfull \hbox (1.09923pt too wide) in paragraph at lines 244--245
+\OT1/lmr/m/n/10 al.[], 2020). Through spec-tral rep-re-sen-ta-tion in Fourier space, FNOs ef-fi-ciently cap-ture 
+ []
+
+
+Overfull \hbox (28.84694pt too wide) in paragraph at lines 244--245
+\OT1/lmr/m/n/10 long-range cor-re-la-tions and high-dimensional de-pen-den-cies. By adding more Fourier modes, 
+ []
+
+
+Overfull \hbox (28.5721pt too wide) in paragraph at lines 244--245
+\OT1/lmr/m/n/10 it is also pos-si-ble to cap-ture in-creas-ingly higher fre-quen-cies. More-over, their su-pe-rior trade- 
+ []
+
+
+Overfull \hbox (2.65283pt too wide) in paragraph at lines 244--245
+\OT1/lmr/m/n/10 off be-tween com-pu-ta-tional cost and ac-cu-racy makes them well-suited for this prob-lem 
+ []
+
+
+Overfull \hbox (6.15373pt too wide) in paragraph at lines 246--247
+[]\OT1/lmr/m/n/10 Here, we present a frame-work for ac-cel-er-at-ing earth-quake dy-nan-mic rup-ture sim- 
+ []
+
+
+Overfull \hbox (14.68315pt too wide) in paragraph at lines 246--247
+\OT1/lmr/m/n/10 u-la-tions us-ing FNOs. We use FNOs to gen-er-ate the full spatio-temporal evo-lu-tion of the 
+ []
+
+
+Overfull \hbox (12.0159pt too wide) in paragraph at lines 246--247
+\OT1/lmr/m/n/10 fault slip rate. The pro-posed ap-proach lever-ages the ef-fi-ciency and ac-cu-racy of FNOs to 
+ []
+
+
+Overfull \hbox (12.87547pt too wide) in paragraph at lines 246--247
+\OT1/lmr/m/n/10 ad-dress the large com-pu-ta-tional de-mands re-quired by physics-based nu-mer-i-cal meth-ods. 
+ []
+
+
+Overfull \hbox (8.51628pt too wide) in paragraph at lines 246--247
+\OT1/lmr/m/n/10 Specif-i-cally, we train FNOs on syn-thetic datasets in-cor-po-rat-ing het-ero-ge-neous dis-tri-bu- 
+ []
+
+
+Overfull \hbox (3.70988pt too wide) in paragraph at lines 246--247
+\OT1/lmr/m/n/10 tions of ini-tial shear stress, ini-tial slip rate, fric-tional pa-ram-e-ters, and stress per-tur-ba- 
+ []
+
+
+Overfull \hbox (10.40404pt too wide) in paragraph at lines 246--247
+\OT1/lmr/m/n/10 tion for nu-cle-ation. The per-for-mance of the FNO frame-work is eval-u-ated across var-i-ous 
+ []
+
+
+Overfull \hbox (14.40462pt too wide) in paragraph at lines 246--247
+\OT1/lmr/m/n/10 datasets, demon-strat-ing its abil-ity to gen-er-al-ize and ac-cu-rately pre-dict fault slip dy-nam- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Overfull \hbox (21.93098pt too wide) in paragraph at lines 248--249
+[]\OT1/lmr/m/n/10 The re-main-der of the pa-per is or-ga-nized as fol-lows. In Sec-tion 2[] we give an overview 
+ []
+
+
+Overfull \hbox (13.23767pt too wide) in paragraph at lines 248--249
+\OT1/lmr/m/n/10 of FNOs and de-scribe the dy-namic rup-ture prob-lem setup. We dis-cuss the na-ture of the 
+ []
+
+
+Overfull \hbox (8.37547pt too wide) in paragraph at lines 248--249
+\OT1/lmr/m/n/10 dif-fer-ent datasets used in train-ing the model in Sec-tion 3[]. We sum-ma-rize our re-sults in 
+ []
+
+
+Overfull \hbox (0.65291pt too wide) in paragraph at lines 248--249
+\OT1/lmr/m/n/10 Sec-tion 4[]. We dis-cuss the im-pli-ca-tions of our find-ings and sum-ma-rize our con-clu-sions 
+ []
+
+
+Overfull \hbox (15.26451pt too wide) in paragraph at lines 256--257
+[]\OT1/lmr/m/n/10 We con-sider a 2D pla-nar fault em-bed-ded in a 3D ho-mo-ge-neous, isotropic, and elas- 
+ []
+
+
+Overfull \hbox (5.09099pt too wide) in paragraph at lines 256--257
+\OT1/lmr/m/n/10 tic do-main $
+$. The do-main in-cludes a trac-tion bound-ary $^^@[]$, a dis-place-ment bound-ary 
+ []
+
+
+Overfull \hbox (25.59329pt too wide) in paragraph at lines 256--257
+\OT1/lmr/m/n/10 ^^@[]$, and a fault sur-face lo-cated along $^^@[]$. We adopt the TPV101 bench-mark prob-lem setup 
+ []
+
+
+Overfull \hbox (11.22359pt too wide) in paragraph at lines 256--257
+\OT1/lmr/m/n/10 from the SCEC/USGS dy-namic earth-quake rup-ture code ver-i-fi-ca-tion ex-er-cise []Harris et 
+ []
+
+
+Overfull \hbox (4.75024pt too wide) in paragraph at lines 265--266
+[]\OT1/lmr/m/n/10 Here, $\OML/lmm/m/it/10 ^^Z$ \OT1/lmr/m/n/10 is the den-sity, $\OML/lmm/m/it/10 u[]$ \OT1/lmr/m/n/10 rep-re-sents the dis-place-ment vec-tor, $\OML/lmm/m/it/10 b[]$ \OT1/lmr/m/n/10 de-notes the body 
+ []
+
+
+Overfull \hbox (8.67856pt too wide) in paragraph at lines 265--266
+\OT1/lmr/m/n/10 force vec-tor, and $\OML/lmm/m/it/10 ^^N[]$ \OT1/lmr/m/n/10 is the slip. The su-per-scripts $+$ and $\OMS/lmsy/m/n/10 ^^@$ \OT1/lmr/m/n/10 re-fer to the pos-i-tive and neg- 
+ []
+
+
+Overfull \hbox (13.18282pt too wide) in paragraph at lines 265--266
+\OT1/lmr/m/n/10 a-tive sides of the fault, re-spec-tively. The stress-strain re-la-tion-ship can be de-fined by lin- 
+ []
+
+
+Overfull \hbox (8.49098pt too wide) in paragraph at lines 271--272
+[]\OT1/lmr/m/n/10 where $\OML/lmm/m/it/10 ^^U$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 ^^V$ \OT1/lmr/m/n/10 are the Lam^^Se pa-ram-e-ters, $\OML/lmm/m/it/10 ^^N[]$ \OT1/lmr/m/n/10 is the Kro-necker delta, and $\OML/lmm/m/it/10 ^^O[]$ \OT1/lmr/m/n/10 is the 
+ []
+
+
+Overfull \hbox (14.14891pt too wide) in paragraph at lines 271--272
+\OT1/lmr/m/n/10 strain ten-sor. The do-main is char-ac-ter-ized by its den-sity ($\OML/lmm/m/it/10 ^^Z$\OT1/lmr/m/n/10 ), shear wave speed ($\OML/lmm/m/it/10 c[]$\OT1/lmr/m/n/10 ), and 
+ []
+
+
+Overfull \hbox (11.59819pt too wide) in paragraph at lines 273--274
+[]\OT1/lmr/m/n/10 The shear com-po-nent of the fault bound-ary con-di-tion is gov-erned by a reg-u-lar-ized 
+ []
+
+
+Overfull \hbox (15.43074pt too wide) in paragraph at lines 273--274
+\OT1/lmr/m/n/10 rate-and-state fric-tion law with an ag-ing for-mu-la-tion []Dieterich, 1979; Ru-ina, 1983; Ben- 
+ []
+
+
+Overfull \hbox (11.56949pt too wide) in paragraph at lines 273--274
+\OT1/lmr/m/n/10 Zion & Rice, 1997; La-pusta et al.[], 2000; Am-puero & Ru-bin, 2008). This for-mu-la-tion re- 
+ []
+
+
+Overfull \hbox (2.8675pt too wide) in paragraph at lines 273--274
+\OT1/lmr/m/n/10 lates the fault's strength to the slip rate ($\OML/lmm/m/it/10 V$\OT1/lmr/m/n/10 ), nor-mal stress ($\OML/lmm/m/it/10 ^^[$\OT1/lmr/m/n/10 ), and state vari-able ($\OML/lmm/m/it/10 ^^R$\OT1/lmr/m/n/10 ) 
+ []
+
+
+Overfull \hbox (3.45403pt too wide) in paragraph at lines 280--281
+[]\OT1/lmr/m/n/10 In ex-pres-sion (6[]), the pa-ram-e-ter com-bi-na-tion of $\OML/lmm/m/it/10 a$\OT1/lmr/m/n/10 , and $\OML/lmm/m/it/10 b$ \OT1/lmr/m/n/10 dic-tates the sta-bil-ity of 
+ []
+
+
+Overfull \hbox (2.12163pt too wide) in paragraph at lines 280--281
+\OT1/lmr/m/n/10 the fric-tional in-ter-face. $\OML/lmm/m/it/10 a \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m/it/10 b > \OT1/lmr/m/n/10 0$ cor-re-sponds to a steady state rate-strengthening fric- 
+ []
+
+
+Overfull \hbox (1.65483pt too wide) in paragraph at lines 280--281
+\OT1/lmr/m/n/10 steady state rate-weakening fric-tional re-sponse (VW) which may lead to un-sta-ble slip 
+ []
+
+
+Overfull \hbox (5.15372pt too wide) in paragraph at lines 286--287
+[]\OT1/lmr/m/n/10 A schematic rep-re-sen-ta-tion of the fault ge-om-e-try is shown in Fig-ure 1[]. The fault 
+ []
+
+
+Overfull \hbox (3.4817pt too wide) in paragraph at lines 286--287
+\OT1/lmr/m/n/10 mo-genic zone which is char-ac-ter-ized by a neg-a-tive value of $\OML/lmm/m/it/10 a \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m/it/10 b$\OT1/lmr/m/n/10 . Sur-round-ing the VW 
+ []
+
+
+Overfull \hbox (15.2107pt too wide) in paragraph at lines 286--287
+\OT1/lmr/m/n/10 re-gion is a velocity-strengthening (VS) regime, which is char-ac-ter-ized by a pos-i-tive value 
+ []
+
+
+Overfull \hbox (0.79796pt too wide) in paragraph at lines 286--287
+\OT1/lmr/m/n/10 of $\OML/lmm/m/it/10 a \OMS/lmsy/m/n/10 ^^@ \OML/lmm/m/it/10 b$\OT1/lmr/m/n/10 , with a tran-si-tion layer of width $\OML/lmm/m/it/10 w \OT1/lmr/m/n/10 = 3$ km. To en-sure a smooth tran-si-tion be- 
+ []
+
+
+Overfull \hbox (25.30067pt too wide) in paragraph at lines 286--287
+\OT1/lmr/m/n/10 tween these re-gions, the pa-ram-e-ter $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 varies smoothly based on a math-e-mat-i-cally smoothed 
+ []
+
+[4{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
+<figures/V2/fault_model.png, id=28, 489.027pt x 304.848pt>
+File: figures/V2/fault_model.png Graphic file (type png)
+<use figures/V2/fault_model.png>
+Package pdftex.def Info: figures/V2/fault_model.png  used on input line 310.
+(pdftex.def)             Requested size: 198.7425pt x 123.8907pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]\OT1/lmr/bx/n/9 Figure  1. []\OT1/lmr/m/n/9 Schematic il-lus-tra-tion of the 3D fault model, show-ing the cen-tral VW regime sur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\OT1/lmr/m/n/9 rounded by the VS regime sep-a-rated by a tran-si-tion layer. The shear stress fol-lows a frac-tal
+ []
+
+
+Overfull \hbox (24.48541pt too wide) in paragraph at lines 315--316
+[]\OT1/lmr/m/n/10 We in-tro-duce vari-a-tions into the ini-tial shear stress field ($\OML/lmm/m/it/10 ^^\[]$\OT1/lmr/m/n/10 ) to cap-ture spa-tial stress 
+ []
+
+
+Overfull \hbox (15.93239pt too wide) in paragraph at lines 315--316
+\OT1/lmr/m/n/10 het-ero-gene-ity, which stud-ies sug-gest fol-lows a fractal-like dis-tri-bu-tion con-sis-tent with the 
+ []
+
+
+Overfull \hbox (7.93149pt too wide) in paragraph at lines 315--316
+\OT1/lmr/m/n/10 rough-ness of fault sur-faces []Andrews, 1980; Re-nard & Can-dela, 2017). More-over, mod- 
+ []
+
+
+Overfull \hbox (8.76544pt too wide) in paragraph at lines 315--316
+\OT1/lmr/m/n/10 els in-cor-po-rat-ing frac-tal dis-tri-bu-tions align with key seis-mo-log-i-cal pat-terns, such as the 
+ []
+
+
+Overfull \hbox (23.86288pt too wide) in paragraph at lines 315--316
+\OT1/lmr/m/n/10 Gutenberg-Richter law []Hirata, 1989). We gen-er-ate a frac-tal shear stress field with a spec- 
+ []
+
+
+Overfull \hbox (6.70982pt too wide) in paragraph at lines 315--316
+\OT1/lmr/m/n/10 i-fied frac-tal di-men-sion $\OML/lmm/m/it/10 D$\OT1/lmr/m/n/10 , mean, and stan-dard de-vi-a-tion. The frequency-domain rep-re- 
+ []
+
+
+Overfull \hbox (0.34027pt too wide) in paragraph at lines 322--323
+[]\OT1/lmr/m/n/10 where $\OML/lmm/m/it/10 k$ \OT1/lmr/m/n/10 is the nor-mal-ized wavenum-ber. This scal-ing yields larger am-pli-tudes at 
+ []
+
+
+Overfull \hbox (23.52797pt too wide) in paragraph at lines 324--325
+[]\OT1/lmr/m/n/10 We as-sign a ran-dom phase $\OML/lmm/m/it/10 ^^^$ \OT1/lmr/m/n/10 to each fre-quency com-po-nent. The phase is drawn from 
+ []
+
+
+Overfull \hbox (1.64427pt too wide) in paragraph at lines 324--325
+\OT1/lmr/m/n/10 a uni-form dis-tri-bu-tion $\OML/lmm/m/it/10 ^^^ \OMS/lmsy/m/n/10 ^^X U\OT1/lmr/m/n/10 (0\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 2\OML/lmm/m/it/10 ^^Y\OT1/lmr/m/n/10 )$. The com-plex frequency-domain rep-re-sen-ta-tion is 
+ []
+
+[5 <./figures/V2/fault_model.png>]
+Overfull \hbox (5.34886pt too wide) in paragraph at lines 331--332
+[]\OT1/lmr/m/n/10 After con-struct-ing the spec-trum, we ap-ply an in-verse FFT to trans-form the data 
+ []
+
+
+Overfull \hbox (4.82034pt too wide) in paragraph at lines 331--332
+\OT1/lmr/m/n/10 back into the spa-tial do-main. The re-sult-ing real-valued shear stress field is nor-mal-ized 
+ []
+
+
+Overfull \hbox (4.45998pt too wide) in paragraph at lines 331--332
+\OT1/lmr/m/n/10 to en-sure it matches the tar-get sta-tis-ti-cal prop-er-ties, in-clud-ing the spec-i-fied mean and 
+ []
+
+
+Overfull \hbox (7.08968pt too wide) in paragraph at lines 338--339
+[]\OT1/lmr/m/n/10 where $\OML/lmm/m/it/10 ^^V$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 ^^[$ \OT1/lmr/m/n/10 are the mean and stan-dard de-vi-a-tion of the raw field $\OML/lmm/m/it/10 S\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 x\OT1/lmr/m/n/10 )$, and $\OML/lmm/m/it/10 ^^V[]$ 
+ []
+
+
+Overfull \hbox (0.98705pt too wide) in paragraph at lines 340--341
+[]\OT1/lmr/m/n/10 The dy-namic rup-ture dataset is gen-er-ated us-ing the Spec-tral Bound-ary In-te-gral 
+ []
+
+
+Overfull \hbox (16.2925pt too wide) in paragraph at lines 340--341
+\OT1/lmr/m/n/10 (SBI) method, which is cur-rently the fastest avail-able solver for sim-u-lat-ing rup-ture prop- 
+ []
+
+
+Overfull \hbox (3.52736pt too wide) in paragraph at lines 340--341
+\OT1/lmr/m/n/10 a-ga-tion along a pla-nar fault in a ho-mo-ge-neous medium []Geubelle & Rice, 1995). This 
+ []
+
+
+Overfull \hbox (13.45998pt too wide) in paragraph at lines 340--341
+\OT1/lmr/m/n/10 method in-volves solv-ing the cou-pled equa-tions gov-ern-ing trac-tion and dis-place-ment con- 
+ []
+
+
+Overfull \hbox (1.59949pt too wide) in paragraph at lines 340--341
+\OT1/lmr/m/n/10 ti-nu-ity along the fault sur-face. As a re-sult, it elim-i-nates the need to solve the gov-ern- 
+ []
+
+
+Overfull \hbox (9.9181pt too wide) in paragraph at lines 340--341
+\OT1/lmr/m/n/10 ing equa-tions through-out the en-tire do-main. Ac-cord-ing to []Geubelle & Rice, 1995), the 
+ []
+
+
+Overfull \hbox (5.59116pt too wide) in paragraph at lines 347--348
+[]\OT1/lmr/m/n/10 where $\OML/lmm/m/it/10 ^^\[]$ \OT1/lmr/m/n/10 is the trac-tion at the fault's sur-face on the half-space ly-ing in the $\OML/lmm/m/it/10 x[]$\OT1/lmr/m/n/10 {$\OML/lmm/m/it/10 x[]$ 
+ []
+
+
+Overfull \hbox (6.4566pt too wide) in paragraph at lines 347--348
+\OT1/lmr/m/n/10 plane. $\OML/lmm/m/it/10 ^^\[]$ \OT1/lmr/m/n/10 de-notes the far-field trac-tion. $[]$ de-notes the par-ti-cle ve-loc-ity, $\OML/lmm/m/it/10 ^^Q[]$ \OT1/lmr/m/n/10 is the ra-di- 
+ []
+
+
+Overfull \hbox (8.62807pt too wide) in paragraph at lines 347--348
+\OT1/lmr/m/n/10 a-tion damp-ing co-ef-fi-cient ma-trix, and $\OML/lmm/m/it/10 f[]$ \OT1/lmr/m/n/10 rep-re-sents an in-te-gral term of the de-for-ma-tion 
+ []
+
+
+Overfull \hbox (8.94992pt too wide) in paragraph at lines 349--350
+[]\OT1/lmr/m/n/10 In SBI sim-u-la-tions, the fault's ini-tial slip rate is pre-scribed as the con-stant $\OML/lmm/m/it/10 V[] \OT1/lmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (17.76468pt too wide) in paragraph at lines 349--350
+\OT1/lmr/m/n/10 10[]$ m/s. To sat-isfy the fric-tion law, the ini-tial state vari-able is com-puted for each spa- 
+ []
+
+
+Overfull \hbox (1.77327pt too wide) in paragraph at lines 349--350
+\OT1/lmr/m/n/10 tial lo-ca-tion, in-cor-po-rat-ing the spa-tial vari-abil-ity of the pa-ram-e-ter $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 and the im-posed 
+ []
+
+
+Overfull \hbox (19.57188pt too wide) in paragraph at lines 349--350
+\OT1/lmr/m/n/10 frac-tal shear stress dis-tri-bu-tion. The rup-ture is started by ar-ti-fi-cially over-stress-ing a fault 
+ []
+
+
+Overfull \hbox (11.43202pt too wide) in paragraph at lines 349--350
+\OT1/lmr/m/n/10 seg-ment. The hypocen-ter lo-ca-tion varies across re-al-iza-tions but re-mains within the VW 
+ []
+
+
+Overfull \hbox (35.02878pt too wide) in paragraph at lines 349--350
+\OT1/lmr/m/n/10 regime. De-tails of this nu-cle-ation pro-ce-dure are pro-vided in Ap-pendix A[]. We adopt UGUCA 
+ []
+
+
+Overfull \hbox (10.90451pt too wide) in paragraph at lines 389--390
+[]\OT1/lmr/m/n/10 The Fourier Neu-ral Op-er-a-tor (FNO) is a learning-based op-er-a-tor de-signed to map 
+ []
+
+
+Overfull \hbox (12.76326pt too wide) in paragraph at lines 389--390
+\OT1/lmr/m/n/10 be-tween infinite-dimensional spaces us-ing input-output pairs, $\OMS/lmsy/m/n/10 f\OML/lmm/m/it/10 a[]; u[]\OMS/lmsy/m/n/10 g[]$\OT1/lmr/m/n/10 . FNO re-places 
+ []
+
+
+Overfull \hbox (7.68237pt too wide) in paragraph at lines 389--390
+\OT1/lmr/m/n/10 the ker-nel in-te-gral op-er-a-tor in tra-di-tional neu-ral op-er-a-tors with a con-vo-lu-tion op-er-a-tor 
+ []
+
+
+Overfull \hbox (22.26505pt too wide) in paragraph at lines 389--390
+\OT1/lmr/m/n/10 de-fined in Fourier space. Sub-se-quently, an in-verse Fourier trans-form is ap-plied, along with 
+ []
+
+
+Overfull \hbox (17.51503pt too wide) in paragraph at lines 389--390
+\OT1/lmr/m/n/10 a lin-ear trans-for-ma-tion. The re-sult-ing val-ues are then passed through an ac-ti-va-tion func- 
+ []
+
+
+Overfull \hbox (9.87587pt too wide) in paragraph at lines 389--390
+\OT1/lmr/m/n/10 tion, which is ap-plied to the sum of the trans-formed fea-tures. Math-e-mat-i-cally, the neu- 
+ []
+
+
+Underfull \vbox (badness 2980) has occurred while \output is active []
+
+ [6]
+Overfull \hbox (5.85143pt too wide) in paragraph at lines 400--401
+[]\OT1/lmr/m/n/10 where $\OML/lmm/m/it/10 P$ \OT1/lmr/m/n/10 is a point-wise lift-ing op-er-a-tor pa-ram-e-ter-ized with a neu-ral net-work that 
+ []
+
+
+Overfull \hbox (2.36227pt too wide) in paragraph at lines 400--401
+\OT1/lmr/m/n/10 projects the point val-ues of in-put func-tion $\OML/lmm/m/it/10 a\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 x\OT1/lmr/m/n/10 )$ to a higher di-men-sion. $\OML/lmm/m/it/10 W[]$ \OT1/lmr/m/n/10 is a lin-ear 
+ []
+
+
+Overfull \hbox (67.64856pt too wide) in paragraph at lines 400--401
+\OT1/lmr/m/n/10 trans-for-ma-tion ap-plied to $\OML/lmm/m/it/10 v[]\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 x\OT1/lmr/m/n/10 )$ to ac-count for non-periodic bound-ary con-di-tions. $[] \OML/lmm/m/it/10 k\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 x; y\OT1/lmr/m/n/10 )\OML/lmm/m/it/10 v[]\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 y\OT1/lmr/m/n/10 )\OML/lmm/m/it/10 ; dy$ 
+ []
+
+
+Overfull \hbox (1.33775pt too wide) in paragraph at lines 400--401
+\OT1/lmr/m/n/10 rep-re-sents a ker-nel in-te-gral op-er-a-tor. $\OML/lmm/m/it/10 Q$ \OT1/lmr/m/n/10 is a point-wise pro-jec-tion op-er-a-tor pa-ram-e-ter- 
+ []
+
+
+Overfull \hbox (12.5877pt too wide) in paragraph at lines 400--401
+\OT1/lmr/m/n/10 ized with a neu-ral net-work that maps back to the tar-get di-men-sion. $\OML/lmm/m/it/10 ^^[$ \OT1/lmr/m/n/10 is a non-lin-ear ac- 
+ []
+
+
+Overfull \hbox (0.90463pt too wide) in paragraph at lines 402--403
+[]\OT1/lmr/m/n/10 In FNO, we re-place the ker-nel in-te-gral op-er-a-tor with a con-vo-lu-tion op-er-a-tor us- 
+ []
+
+
+Overfull \hbox (9.09833pt too wide) in paragraph at lines 402--403
+\OT1/lmr/m/n/10 ing the fast Fourier trans-form. Thus, we can rewrite the ker-nel in-te-gral op-er-a-tor as fol- 
+ []
+
+
+Overfull \hbox (16.02953pt too wide) in paragraph at lines 409--410
+[]\OT1/lmr/m/n/10 where $\OMS/lmsy/m/n/10 F$ \OT1/lmr/m/n/10 and $\OMS/lmsy/m/n/10 F[]$ \OT1/lmr/m/n/10 are the Fourier trans-form and its in-verse, re-spec-tively. Us-ing the 
+ []
+
+
+Overfull \hbox (7.76404pt too wide) in paragraph at lines 409--410
+\OT1/lmr/m/n/10 Fourier trans-form en-hances com-pu-ta-tional ef-fi-ciency, al-lows the model to han-dle global 
+ []
+
+
+Overfull \hbox (18.01471pt too wide) in paragraph at lines 409--410
+\OT1/lmr/m/n/10 de-pen-den-cies, and en-ables res-o-lu-tion in-vari-ance, mean-ing the model can gen-er-al-ize across 
+ []
+
+
+Overfull \hbox (17.15326pt too wide) in paragraph at lines 409--410
+\OT1/lmr/m/n/10 dif-fer-ent spa-tial and tem-po-ral res-o-lu-tions with-out re-quir-ing re-train-ing. Specif-i-cally, when 
+ []
+
+
+Overfull \hbox (6.126pt too wide) in paragraph at lines 409--410
+\OT1/lmr/m/n/10 the in-put func-tion is pro-vided in reg-u-lar grids, the Fourier trans-former is car-ried us-ing 
+ []
+
+
+Overfull \hbox (13.54294pt too wide) in paragraph at lines 409--410
+\OT1/lmr/m/n/10 fast Fourier trans-form, a cel-e-brated and fast al-go-rithm for Fourier anal-y-sis. It also leads 
+ []
+
+
+Overfull \hbox (4.84837pt too wide) in paragraph at lines 409--410
+\OT1/lmr/m/n/10 to bet-ter gen-er-al-iza-tion across grids, re-duces com-pu-ta-tional costs for high-dimensional 
+ []
+
+
+Overfull \hbox (10.70851pt too wide) in paragraph at lines 409--410
+\OT1/lmr/m/n/10 prob-lems, and im-proves the model's abil-ity to han-dle com-plex, non-lin-ear dy-nam-ics. We 
+ []
+
+
+Overfull \hbox (19.04358pt too wide) in paragraph at lines 409--410
+\OT1/lmr/m/n/10 re-fer the reader to []Z. Li et al.[], 2020) for a dis-cus-sion of this ar-chi-tec-ture and re-lated fea- 
+ []
+
+[7]
+Overfull \hbox (2.10007pt too wide) in paragraph at lines 411--412
+[]\OT1/lmr/m/n/10 Here, the FNO is de-signed to take as in-puts the ini-tial shear stress, the slip rate 
+ []
+
+
+Overfull \hbox (12.07411pt too wide) in paragraph at lines 411--412
+\OML/lmm/m/it/10 V$ \OT1/lmr/m/n/10 for the 2D case or its com-po-nent $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 in 3D, fric-tional pa-ram-e-ters, and the nu-cle-ation 
+ []
+
+
+Overfull \hbox (9.54659pt too wide) in paragraph at lines 411--412
+\OT1/lmr/m/n/10 stress per-tur-ba-tion. The model out-puts the evo-lu-tion of the slip rate $\OML/lmm/m/it/10 V$ \OT1/lmr/m/n/10 in 2D or $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 in 
+ []
+
+
+Overfull \hbox (5.01569pt too wide) in paragraph at lines 411--412
+\OT1/lmr/m/n/10 3D, as il-lus-trated in Fig-ure 2[]. We use this frame-work to al-low for vari-a-tions in (1) the 
+ []
+
+
+Overfull \hbox (7.32158pt too wide) in paragraph at lines 411--412
+\OT1/lmr/m/n/10 ini-tial frac-tal dis-tri-bu-tion of shear stress, (2) the ini-tial stage of the rup-ture re-al-iza-tion 
+ []
+
+
+Overfull \hbox (0.23732pt too wide) in paragraph at lines 411--412
+\OT1/lmr/m/n/10 (i.e., the in-put can be pro-vided at dif-fer-ent time point in the sim-u-la-tion), (3) the val- 
+ []
+
+
+Overfull \hbox (10.67589pt too wide) in paragraph at lines 411--412
+\OT1/lmr/m/n/10 ues of fric-tional pa-ram-e-ters $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 b$\OT1/lmr/m/n/10 , and (4) the lo-ca-tion of nu-cle-ation sites. This setup 
+ []
+
+
+Overfull \hbox (1.98814pt too wide) in paragraph at lines 411--412
+\OT1/lmr/m/n/10 cap-tures the vari-abil-ity and un-cer-tainty in-her-ent in nat-u-ral faults, where ini-tial stress 
+ []
+
+
+Overfull \hbox (1.32101pt too wide) in paragraph at lines 411--412
+\OT1/lmr/m/n/10 con-di-tions, fric-tional prop-er-ties, and nu-cle-ation be-hav-ior are of-ten poorly con-strained 
+ []
+
+<figures/V2/fno_framework.png, id=43, 1696.374pt x 816.87pt>
+File: figures/V2/fno_framework.png Graphic file (type png)
+<use figures/V2/fno_framework.png>
+Package pdftex.def Info: figures/V2/fno_framework.png  used on input line 415.
+(pdftex.def)             Requested size: 397.48499pt x 191.40356pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+[]\OT1/lmr/bx/n/9 Figure  2. []\OT1/lmr/m/n/9 Schematic di-a-gram of the pro-posed FNO frame-work. (a) FNO frame-work for a 2D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+\OT1/lmr/m/n/9 fault plane em-bed-ded in a 3D bulk. (c) FNO frame-work for a 1D fault em-bed-ded in a 2D plane.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+\OT1/lmr/m/n/9 The in-puts in-clude the dis-tri-bu-tion of ini-tial shear stress, slip rate, fric-tional pa-ram-e-ters, and
+ []
+
+
+Overfull \hbox (5.79254pt too wide) in paragraph at lines 423--424
+[]\OT1/lmr/m/n/10 The ac-cu-racy of pre-dic-tions is as-sessed us-ing a mea-sure of the dif-fer-ence be-tween 
+ []
+
+
+Overfull \hbox (1.40445pt too wide) in paragraph at lines 423--424
+\OT1/lmr/m/n/10 the ground truth and the pre-dicted slip rate over time. We present two er-ror met-rics: 
+ []
+
+
+Overfull \hbox (13.86275pt too wide) in paragraph at lines 423--424
+\OT1/lmr/m/n/10 the rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror and the nor-mal-ized root mean squared er-ror (NRMSE). Dur-ing the 
+ []
+
+
+Overfull \hbox (10.38481pt too wide) in paragraph at lines 430--431
+[]\OT1/lmr/m/n/10 where $\OML/lmm/m/it/10 V[]\OT1/lmr/m/n/10 (\OT1/lmr/bx/n/10 x\OML/lmm/m/it/10 ; t\OT1/lmr/m/n/10 )$ is the pre-dicted slip rate at lo-ca-tion $\OT1/lmr/bx/n/10 x$ \OT1/lmr/m/n/10 and time $\OML/lmm/m/it/10 t$\OT1/lmr/m/n/10 , and $\OML/lmm/m/it/10 V[]\OT1/lmr/m/n/10 (\OT1/lmr/bx/n/10 x\OML/lmm/m/it/10 ; t\OT1/lmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (6.15343pt too wide) in paragraph at lines 430--431
+\OT1/lmr/m/n/10 is the cor-re-spond-ing true value. How-ever, this met-ric can be mis-lead-ing some-times be- 
+ []
+
+
+Overfull \hbox (12.15453pt too wide) in paragraph at lines 430--431
+\OT1/lmr/m/n/10 cause the slip rate is close to zero at some points. As a re-sult, the met-ric can be dis-pro- 
+ []
+
+[8 <./figures/V2/fno_framework.png>]
+Overfull \hbox (1.15376pt too wide) in paragraph at lines 432--433
+[]\OT1/lmr/m/n/10 Moreover, shifts in space and time are in-her-ent in the dy-namic rup-ture prob-lem 
+ []
+
+
+Overfull \hbox (1.77937pt too wide) in paragraph at lines 432--433
+[]\OT1/lmr/m/n/10 Barall & Har-ris, 2015). These shifts in-tro-duce bias into the rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror cal-cu-la- 
+ []
+
+
+Overfull \hbox (5.73695pt too wide) in paragraph at lines 432--433
+\OT1/lmr/m/n/10 tion, es-pe-cially when the shifted pre-dic-tion is com-pared to a small ground truth value. 
+ []
+
+
+Overfull \hbox (4.34819pt too wide) in paragraph at lines 432--433
+\OT1/lmr/m/n/10 These bi-ases will be dis-cussed in each of the re-sults sec-tions. To ad-dress this is-sue, we 
+ []
+
+
+Overfull \hbox (16.40335pt too wide) in paragraph at lines 439--440
+[]\OT1/lmr/m/n/10 where $\OML/lmm/m/it/10 M$ \OT1/lmr/m/n/10 is the to-tal num-ber of time steps, $\OML/lmm/m/it/10 N$ \OT1/lmr/m/n/10 is the to-tal num-ber of spa-tial points, 
+ []
+
+
+Overfull \hbox (8.14745pt too wide) in paragraph at lines 439--440
+\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 is the pre-dicted value at spa-tial point $\OML/lmm/m/it/10 j$ \OT1/lmr/m/n/10 and time step $\OML/lmm/m/it/10 i$\OT1/lmr/m/n/10 , and $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 is the cor-re- 
+ []
+
+
+Overfull \hbox (23.0321pt too wide) in paragraph at lines 439--440
+\OT1/lmr/m/n/10 spond-ing true value ob-tained from the nu-mer-i-cal sim-u-la-tions. $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 are the max- 
+ []
+
+
+Overfull \hbox (0.29044pt too wide) in paragraph at lines 439--440
+\OT1/lmr/m/n/10 i-mum and min-i-mum val-ues of $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 over the en-tire space-time do-main. NRMSE com- 
+ []
+
+
+Overfull \hbox (0.65443pt too wide) in paragraph at lines 439--440
+\OT1/lmr/m/n/10 pares the er-ror with the ob-served range of the ground truth. As such, the pre-dic-tions 
+ []
+
+
+Overfull \hbox (11.625pt too wide) in paragraph at lines 444--445
+[]\OT1/lmr/m/n/10 In the SBI solver, the key pa-ram-e-ters used in the model are sum-ma-rized in Ta-bles 
+ []
+
+
+Overfull \hbox (6.0718pt too wide) in paragraph at lines 444--445
+\OT1/lmr/m/n/10 1[] and 2[]. The frac-tal di-men-sions are cho-sen to rep-re-sent nat-u-ral faults, with $\OML/lmm/m/it/10 D$ \OT1/lmr/m/n/10 vary-ing 
+ []
+
+
+Overfull \hbox (2.93117pt too wide) in paragraph at lines 444--445
+\OT1/lmr/m/n/10 be-tween 1.2 and 1.6 []Renard & Can-dela, 2017). The rate-and-state fric-tional pa-ram-e- 
+ []
+
+
+Overfull \hbox (9.84839pt too wide) in paragraph at lines 444--445
+\OT1/lmr/m/n/10 ters fall within the ob-served range from lab-o-ra-tory ex-per-i-ments []Ikari et al.[], 2011; Bar- 
+ []
+
+
+Overfull \hbox (0.68198pt too wide) in paragraph at lines 444--445
+\OT1/lmr/m/n/10 bot, 2022). The dataset is ob-tained by solv-ing the dy-namic rup-ture prob-lem over the 
+ []
+
+
+Overfull \hbox (4.23683pt too wide) in paragraph at lines 446--447
+[]\OT1/lmr/m/n/10 Two datasets are gen-er-ated, cor-re-spond-ing to 2D and 3D dy-namic rup-ture sim-u- 
+ []
+
+
+Overfull \hbox (14.1255pt too wide) in paragraph at lines 446--447
+\OT1/lmr/m/n/10 la-tions. The 3D sim-u-la-tion treats the fault as a 2D plane em-bed-ded in a 3D bulk, which 
+ []
+
+
+Overfull \hbox (9.6538pt too wide) in paragraph at lines 446--447
+\OT1/lmr/m/n/10 is trained us-ing FNO-2D, as shown in Fig-ure 2[]a. It em-ploys a 2D Fourier Trans-form to 
+ []
+
+
+Overfull \hbox (2.70927pt too wide) in paragraph at lines 446--447
+\OT1/lmr/m/n/10 cap-ture spa-tial cor-re-la-tions in both di-men-sions. The 2D sim-u-la-tion treats the fault as 
+ []
+
+
+Overfull \hbox (20.45354pt too wide) in paragraph at lines 446--447
+\OT1/lmr/m/n/10 a 1D cross-section along the hypocen-ter in the $\OML/lmm/m/it/10 x$\OT1/lmr/m/n/10 -axis. This dataset is trained us-ing a sep- 
+ []
+
+
+Overfull \hbox (12.3768pt too wide) in paragraph at lines 446--447
+\OT1/lmr/m/n/10 a-rate FNO-1D, as shown in Fig-ure 2[]b. It ap-plies a 1D Fourier Trans-form to ex-tract fre- 
+ []
+
+
+Overfull \hbox (6.34903pt too wide) in paragraph at lines 448--449
+[]\OT1/lmr/m/n/10 For the ini-tial shear stress dis-tri-bu-tion, ex-pressed in Equa-tion 11[], the nor-mal-ized 
+ []
+
+
+Overfull \hbox (5.15479pt too wide) in paragraph at lines 455--456
+\OT1/lmr/m/n/10 di-vi-sion by zero. This choice is ar-bi-trary as it only af-fects the mean value of the stress 
+ []
+
+
+Overfull \hbox (16.34547pt too wide) in paragraph at lines 457--458
+[]\OT1/lmr/m/n/10 For the 2D fault, each grid point $(\OML/lmm/m/it/10 i; j\OT1/lmr/m/n/10 )$ in Fourier space cor-re-sponds to a wave num- 
+ []
+
+
+Overfull \hbox (7.81001pt too wide) in paragraph at lines 465--466
+[]\OT1/lmr/m/n/10 where $\OML/lmm/m/it/10 n[]$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 n[]$ \OT1/lmr/m/n/10 are the to-tal num-ber of points in the $\OML/lmm/m/it/10 x$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 y$ \OT1/lmr/m/n/10 di-rec-tions, re-spec- 
+ []
+
+[9]
+Overfull \hbox (6.54242pt too wide) in paragraph at lines 471--472
+[]\OT1/lmr/m/n/10 In the 2D dataset, the fault is rep-re-sented as a one-dimensional line em-bed-ded in 
+ []
+
+
+Overfull \hbox (17.07085pt too wide) in paragraph at lines 471--472
+\OT1/lmr/m/n/10 a 2D elas-tic bulk, as-sum-ing plane strain con-di-tions. A to-tal of 8,200 re-al-iza-tions are gen- 
+ []
+
+
+Overfull \hbox (34.34831pt too wide) in paragraph at lines 471--472
+\OT1/lmr/m/n/10 er-ated, with pa-ram-e-ters listed in Ta-ble 2[]. Among these, 4,000 re-al-iza-tions have the hypocen- 
+ []
+
+
+Overfull \hbox (5.82112pt too wide) in paragraph at lines 471--472
+\OT1/lmr/m/n/10 ter at the cen-ter of the fault, 2,100 have hypocen-ters lo-cated at the point of max-i-mum 
+ []
+
+
+Overfull \hbox (14.3764pt too wide) in paragraph at lines 471--472
+\OT1/lmr/m/n/10 shear stress in the VW re-gion, and the re-main-ing 2,100 have ran-domly lo-cated hypocen- 
+ []
+
+
+Overfull \hbox (13.70978pt too wide) in paragraph at lines 473--474
+[]\OT1/lmr/m/n/10 Each re-al-iza-tion is pro-cessed to cre-ate four dif-fer-ent start-ing points based on a slip 
+ []
+
+
+Overfull \hbox (3.02829pt too wide) in paragraph at lines 473--474
+\OT1/lmr/m/n/10 rate thresh-old, $\OML/lmm/m/it/10 V[]$\OT1/lmr/m/n/10 . We de-fine this thresh-old as the time step when the max-i-mum slip 
+ []
+
+
+Overfull \hbox (14.72397pt too wide) in paragraph at lines 473--474
+\OT1/lmr/m/n/10 rate in the do-main first ex-ceeds $\OML/lmm/m/it/10 V[]$\OT1/lmr/m/n/10 . From that point, we ex-tract the in-put fea-tures: ini- 
+ []
+
+
+Overfull \hbox (0.70958pt too wide) in paragraph at lines 473--474
+\OT1/lmr/m/n/10 tial shear stress, slip rate, and nu-cle-ation per-tur-ba-tion. The fric-tional pa-ram-e-ters are 
+ []
+
+
+Overfull \hbox (65.59862pt too wide) in paragraph at lines 473--474
+\OT1/lmr/m/n/10 kept un-changed across all start-ing points. We use four thresh-old val-ues: $\OML/lmm/m/it/10 V[] \OMS/lmsy/m/n/10 2 f\OT1/lmr/m/n/10 0\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OMS/lmsy/m/n/10 g$\OT1/lmr/m/n/10 . 
+ []
+
+
+Overfull \hbox (7.34924pt too wide) in paragraph at lines 473--474
+\OT1/lmr/m/n/10 These thresh-olds are typ-i-cally used to de-fine the on-set of seis-mic events in multi cy-cles 
+ []
+
+
+Overfull \hbox (7.34778pt too wide) in paragraph at lines 473--474
+\OT1/lmr/m/n/10 sim-u-la-tions. This ap-proach re-sults in four sets of data for each of the orig-i-nal 8,200 re- 
+ []
+
+
+Overfull \hbox (5.20975pt too wide) in paragraph at lines 473--474
+\OT1/lmr/m/n/10 al-iza-tions, giv-ing a to-tal of 32,800 data sam-ples. Of these, 28,700 are used for train-ing 
+ []
+
+
+Overfull \hbox (4.09459pt too wide) in paragraph at lines 475--476
+[]\OT1/lmr/m/n/10 The FNO is trained to ap-prox-i-mate the map-ping from the ini-tial shear stress $\OML/lmm/m/it/10 ^^\[]$\OT1/lmr/m/n/10 , 
+ []
+
+
+Overfull \hbox (4.94344pt too wide) in paragraph at lines 475--476
+\OT1/lmr/m/n/10 slip rate $\OML/lmm/m/it/10 V[]$\OT1/lmr/m/n/10 , fric-tional pa-ram-e-ters $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 b$\OT1/lmr/m/n/10 , and stress per-tur-ba-tion $^^A\OML/lmm/m/it/10 ^^\$ \OT1/lmr/m/n/10 to the se-quence 
+ []
+
+
+Overfull \hbox (5.43263pt too wide) in paragraph at lines 475--476
+\OT1/lmr/m/n/10 of slip rates over the time in-ter-val of in-ter-est. The in-put data is struc-tured as a ten-sor 
+ []
+
+
+Overfull \hbox (8.33621pt too wide) in paragraph at lines 475--476
+\OT1/lmr/m/n/10 of di-men-sions $(\OML/lmm/m/it/10 N; X; C[]\OT1/lmr/m/n/10 )$, while the out-put data has di-men-sions $(\OML/lmm/m/it/10 N; X; C[]\OT1/lmr/m/n/10 )$, where $\OML/lmm/m/it/10 N$ 
+ []
+
+
+Overfull \hbox (31.41782pt too wide) in paragraph at lines 475--476
+\OT1/lmr/m/n/10 de-notes the num-ber of re-al-iza-tions, $\OML/lmm/m/it/10 X$ \OT1/lmr/m/n/10 rep-re-sents the num-ber of spa-tial dis-cretiza-tion points, 
+ []
+
+
+Overfull \hbox (8.39035pt too wide) in paragraph at lines 477--478
+[]\OT1/lmr/m/n/10 The spa-tial dis-cretiza-tion con-sists of 2,880 points, i.e., $\OML/lmm/m/it/10 X \OT1/lmr/m/n/10 = 2[]880$, con-sis-tent with 
+ []
+
+
+Overfull \hbox (2.3479pt too wide) in paragraph at lines 477--478
+\OT1/lmr/m/n/10 the res-o-lu-tion used in the SBI solver. The in-put chan-nels in-clude the spa-tial dis-tri-bu- 
+ []
+
+
+Overfull \hbox (8.04732pt too wide) in paragraph at lines 477--478
+\OT1/lmr/m/n/10 tions of the ini-tial shear stress $\OML/lmm/m/it/10 ^^\[]$ \OT1/lmr/m/n/10 and slip rate at $\OML/lmm/m/it/10 t[]$\OT1/lmr/m/n/10 , fric-tional pa-ram-e-ters $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 b$\OT1/lmr/m/n/10 , and 
+ []
+
+
+Overfull \hbox (12.93567pt too wide) in paragraph at lines 477--478
+\OT1/lmr/m/n/10 ten time steps of the nu-cle-ation stress per-tur-ba-tion $^^A\OML/lmm/m/it/10 ^^\$\OT1/lmr/m/n/10 , sam-pled at 0.1 s in-ter-vals start- 
+ []
+
+
+Overfull \hbox (5.84819pt too wide) in paragraph at lines 477--478
+\OT1/lmr/m/n/10 ing from the time $\OML/lmm/m/it/10 t[]$\OT1/lmr/m/n/10 , when the slip rate first ex-ceeds the thresh-old $\OML/lmm/m/it/10 V[]$\OT1/lmr/m/n/10 . These ten per- 
+ []
+
+
+Overfull \hbox (0.29074pt too wide) in paragraph at lines 479--480
+\OT1/lmr/m/n/10 0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 001 []$, which sat-is-fies the Courant{Friedrichs{Lewy (CFL) con-di-tion, $^^A\OML/lmm/m/it/10 t \OMS/lmsy/m/n/10 ^^T \OML/lmm/m/it/10 f\OT1/lmr/m/n/10 ^^A\OML/lmm/m/it/10 x=c[]$\OT1/lmr/m/n/10 , 
+ []
+
+
+Overfull \hbox (18.65414pt too wide) in paragraph at lines 479--480
+\OT1/lmr/m/n/10 pen-dent of the nu-mer-i-cal dis-cretiza-tion, we adopt a coarser time step of 0.2 s in the FNO 
+ []
+
+
+Overfull \hbox (4.59785pt too wide) in paragraph at lines 479--480
+\OT1/lmr/m/n/10 model. The FNO is trained to per-form a single-shot pre-dic-tion of 60 time steps of slip 
+ []
+
+
+Overfull \hbox (3.43144pt too wide) in paragraph at lines 482--483
+[]\OT1/lmr/m/n/10 Before train-ing, the dataset is nor-mal-ized, scal-ing each fea-ture in both the in-put 
+ []
+
+
+Overfull \hbox (6.45448pt too wide) in paragraph at lines 482--483
+\OT1/lmr/m/n/10 and out-put to the range $[0\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 1]$. Af-ter train-ing, the orig-i-nal phys-i-cal scale is re-stored us- 
+ []
+
+
+Overfull \hbox (6.37517pt too wide) in paragraph at lines 482--483
+\OT1/lmr/m/n/10 ing an in-verse trans-for-ma-tion. This nor-mal-iza-tion en-hances nu-mer-i-cal sta-bil-ity and fa- 
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 486.
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
+[]\OT1/lmr/bx/n/9 Table 2. \OT1/lmr/m/n/9 Frac-tal di-men-sions and vari-a-tion of fric-tional pa-ram-e-ter $\OML/lmm/m/it/9 a$ \OT1/lmr/m/n/9 and $\OML/lmm/m/it/9 b$ \OT1/lmr/m/n/9 for 2D and 3D dy-
+ []
+
+
+Overfull \hbox (23.6539pt too wide) in paragraph at lines 511--512
+[]\OT1/lmr/m/n/10 In the 3D dataset, the fault is mod-eled as a 2D plane em-bed-ded in a 3D elas-tic bulk. 
+ []
+
+
+Overfull \hbox (2.59161pt too wide) in paragraph at lines 511--512
+\OT1/lmr/m/n/10 The vari-a-tions in frac-tal di-men-sion and fric-tional pa-ram-e-ters $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 b$ \OT1/lmr/m/n/10 are listed in Ta- 
+ []
+
+
+Overfull \hbox (15.07054pt too wide) in paragraph at lines 511--512
+\OT1/lmr/m/n/10 ble 2[]. Ex-am-ples of frac-tal ini-tial shear stress dis-tri-bu-tions gen-er-ated us-ing dif-fer-ent frac- 
+ []
+
+
+Overfull \hbox (5.0432pt too wide) in paragraph at lines 513--514
+[]\OT1/lmr/m/n/10 Similar to the 2D case, 8,200 re-al-iza-tions are gen-er-ated: 4,000 with the hypocen- 
+ []
+
+
+Overfull \hbox (12.43211pt too wide) in paragraph at lines 513--514
+\OT1/lmr/m/n/10 ter at the fault cen-ter, 2,100 at the lo-ca-tion of max-i-mum shear stress in the VW re-gion, 
+ []
+
+
+Overfull \hbox (11.45886pt too wide) in paragraph at lines 513--514
+\OT1/lmr/m/n/10 and 2,100 with uni-formly ran-dom hypocen-ter lo-ca-tions. Each re-al-iza-tion is pro-cessed in 
+ []
+
+
+Overfull \hbox (11.23724pt too wide) in paragraph at lines 513--514
+\OT1/lmr/m/n/10 the same man-ner as the 2D case to pro-duce four dis-tinct ini-tial con-di-tions based on the 
+ []
+
+
+Overfull \hbox (17.6807pt too wide) in paragraph at lines 513--514
+\OT1/lmr/m/n/10 slip rate thresh-old $\OML/lmm/m/it/10 V[] \OMS/lmsy/m/n/10 2 f\OT1/lmr/m/n/10 0\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OMS/lmsy/m/n/10 g$\OT1/lmr/m/n/10 . This re-sults in 32,800 data sam-ples. From 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+<figures/V2/3D_input_contour.png, id=54, 1161.98116pt x 250.7769pt>
+File: figures/V2/3D_input_contour.png Graphic file (type png)
+<use figures/V2/3D_input_contour.png>
+Package pdftex.def Info: figures/V2/3D_input_contour.png  used on input line 517.
+(pdftex.def)             Requested size: 397.48499pt x 85.78342pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+[]\OT1/lmr/bx/n/9 Figure  3. []\OT1/lmr/m/n/9 Ini-tial frac-tal shear stress dis-tri-bu-tions $\OML/lmm/m/it/9 ^^\[]$ \OT1/lmr/m/n/9 with frac-tal di-men-sions of (a) 1.2, (b)
+ []
+
+
+Overfull \hbox (4.65398pt too wide) in paragraph at lines 522--523
+[]\OT1/lmr/m/n/10 As in the 2D case, the FNO is trained to ap-prox-i-mate the map-ping from the ini- 
+ []
+
+
+Overfull \hbox (4.41547pt too wide) in paragraph at lines 522--523
+\OT1/lmr/m/n/10 tial shear stress $^^A\OML/lmm/m/it/10 ^^\[]$\OT1/lmr/m/n/10 , slip rate $\OML/lmm/m/it/10 V[]$\OT1/lmr/m/n/10 , fric-tional pa-ram-e-ters $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 b$\OT1/lmr/m/n/10 , and stress per-tur- 
+ []
+
+
+Overfull \hbox (9.42162pt too wide) in paragraph at lines 522--523
+\OT1/lmr/m/n/10 ba-tion $^^A\OML/lmm/m/it/10 ^^\[]$ \OT1/lmr/m/n/10 to the se-quence of com-po-nent of slip rates $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 over the time in-ter-val of in- 
+ []
+
+
+Overfull \hbox (5.06511pt too wide) in paragraph at lines 522--523
+\OT1/lmr/m/n/10 ter-est. The in-put data is struc-tured as a ten-sor of di-men-sions $(\OML/lmm/m/it/10 N; X; Y; C[]\OT1/lmr/m/n/10 )$, while the 
+ []
+
+
+Overfull \hbox (19.11963pt too wide) in paragraph at lines 522--523
+\OT1/lmr/m/n/10 out-put data has di-men-sions $(\OML/lmm/m/it/10 N; X; Y; C[]\OT1/lmr/m/n/10 )$, where $\OML/lmm/m/it/10 X$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 Y$ \OT1/lmr/m/n/10 rep-re-sent the num-ber of spa- 
+ []
+
+
+Overfull \hbox (11.5749pt too wide) in paragraph at lines 524--525
+\OT1/lmr/m/n/10 360$. The in-put chan-nels con-sist of the spa-tial dis-tri-bu-tions of $\OML/lmm/m/it/10 ^^\[]$\OT1/lmr/m/n/10 , $\OML/lmm/m/it/10 V[]$\OT1/lmr/m/n/10 , $\OML/lmm/m/it/10 a$\OT1/lmr/m/n/10 , $\OML/lmm/m/it/10 b$\OT1/lmr/m/n/10 , and ten steps 
+ []
+
+
+Overfull \hbox (4.95905pt too wide) in paragraph at lines 526--527
+[]\OT1/lmr/m/n/10 The SBI solver uses a time step of $^^A\OML/lmm/m/it/10 t \OT1/lmr/m/n/10 = 0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 01$ s to sat-isfy the CFL con-di-tion with 
+ []
+
+
+Overfull \hbox (14.5471pt too wide) in paragraph at lines 526--527
+\OT1/lmr/m/n/10 FNO train-ing, we gen-er-ate 60 time steps of $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 evo-lu-tion at 0.2 s in-ter-vals start-ing from 
+ []
+
+
+Overfull \hbox (11.59695pt too wide) in paragraph at lines 526--527
+\OT1/lmr/m/n/10 cor-re-sponds to ap-prox-i-mately 2 TB of data. Given the avail-able mem-ory and GPU lim- 
+ []
+
+
+Overfull \hbox (25.51434pt too wide) in paragraph at lines 526--527
+\OT1/lmr/m/n/10 i-ta-tions, train-ing with a sin-gle batch at this scale is chal-leng-ing. Thus, we re-duce the num- 
+ []
+
+
+Overfull \hbox (5.69618pt too wide) in paragraph at lines 526--527
+\OT1/lmr/m/n/10 to $(360\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 180\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 60)$ for FNO train-ing, re-duc-ing the dataset size to ap-prox-i-mately 416 GB. 
+ []
+
+
+Overfull \hbox (19.26862pt too wide) in paragraph at lines 526--527
+\OT1/lmr/m/n/10 In this case, the out-put chan-nels cor-re-spond to snap-shots of $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 spa-tially sam-pled at half 
+ []
+
+
+Overfull \hbox (17.01483pt too wide) in paragraph at lines 526--527
+\OT1/lmr/m/n/10 the res-o-lu-tion of the orig-i-nal sim-u-la-tions and tem-po-rally recorded at 0.2 s in-ter-vals. This 
+ []
+
+
+Overfull \hbox (8.6525pt too wide) in paragraph at lines 526--527
+\OT1/lmr/m/n/10 ad-just-ment makes train-ing fea-si-ble on the avail-able NVIDIA A100 GPU with 64 GB of 
+ []
+
+
+Overfull \hbox (7.7932pt too wide) in paragraph at lines 528--529
+[]\OT1/lmr/m/n/10 As with the 2D dataset, we also nor-mal-ize the 3D dataset, scal-ing each fea-ture in 
+ []
+
+
+Overfull \hbox (9.28763pt too wide) in paragraph at lines 528--529
+\OT1/lmr/m/n/10 both the in-put and out-put to the range $[0\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 1]$. Af-ter train-ing, the orig-i-nal phys-i-cal scale 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./figures/V2/3D_input_contour.png>]
+Overfull \hbox (30.65373pt too wide) in paragraph at lines 541--542
+[]\OT1/lmr/m/n/10 We op-ti-mize the hy-per-pa-ram-e-ters of FNO-1D, in-clud-ing the num-ber of modes, Fourier 
+ []
+
+
+Overfull \hbox (19.82118pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 lay-ers, lift-ing and pro-jec-tion lay-ers, and the learn-ing rate. De-tails of hy-per-pa-ram-e-ter tun- 
+ []
+
+
+Overfull \hbox (11.43127pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 ing and train-ing strate-gies are listed in Ap-pendix Ap-pendix B[]. The model se-lec-tion cri- 
+ []
+
+
+Overfull \hbox (7.7356pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 te-rion bal-ances ac-cu-racy with com-pu-ta-tional ef-fi-ciency by main-tain-ing a min-i-mal num- 
+ []
+
+
+Overfull \hbox (22.56953pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 ber of pa-ram-e-ters. Based on this tun-ing pro-cess, we con-fig-ure the model with four Fourier 
+ []
+
+
+Overfull \hbox (2.59727pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 128 neu-rons. The num-ber of re-tained modes af-ter ap-ply-ing the Fourier trans-form and 
+ []
+
+
+Overfull \hbox (1.8347pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 sub-se-quent lin-ear trans-for-ma-tion is set to 16. The ac-ti-va-tion func-tion is the Gaus-sian 
+ []
+
+
+Overfull \hbox (6.4312pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 Er-ror Lin-ear Unit (GELU) []Hendrycks & Gim-pel, 2016). The model is trained us-ing a 
+ []
+
+
+Overfull \hbox (18.16705pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 batch size of 10, with a rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 loss func-tion and the Adam op-ti-mizer []Kingma & Ba, 
+ []
+
+
+Overfull \hbox (15.87563pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 2014), adopt-ing a learn-ing rate of $10[]$ and a weight de-cay of $10[]$ with a co-sine an-neal- 
+ []
+
+
+Overfull \hbox (5.29256pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 ing sched-ule. The train-ing pro-cess is con-ducted for 500 epochs. The train-ing and test- 
+ []
+
+
+Overfull \hbox (11.1267pt too wide) in paragraph at lines 541--542
+\OT1/lmr/m/n/10 ing losses are shown in Fig-ure 4[]a. Both train-ing and test-ing losses con-sis-tently de-crease 
+ []
+
+<figures/V2/loss.png, id=60, 514.0806pt x 261.3765pt>
+File: figures/V2/loss.png Graphic file (type png)
+<use figures/V2/loss.png>
+Package pdftex.def Info: figures/V2/loss.png  used on input line 545.
+(pdftex.def)             Requested size: 278.23827pt x 141.46823pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
+[]\OT1/lmr/bx/n/9 Figure  4. []\OT1/lmr/m/n/9 Train-ing and test-ing losses for (a) 2D dy-namic rup-ture dataset and (b) 3D dy-namic
+ []
+
+
+Overfull \hbox (6.04298pt too wide) in paragraph at lines 550--551
+[]\OT1/lmr/m/n/10 The per-for-mance of FNO-1D is eval-u-ated on the test-ing dataset. The model pre- 
+ []
+
+
+Overfull \hbox (7.26546pt too wide) in paragraph at lines 550--551
+\OT1/lmr/m/n/10 dic-tions, com-pared against the ground truth, are pre-sented in Fig-ure 5[]. FNO-1D ef-fec- 
+ []
+
+
+Overfull \hbox (11.13556pt too wide) in paragraph at lines 550--551
+\OT1/lmr/m/n/10 tively cap-tures a wide range of mag-ni-tudes aris-ing from dif-fer-ent dis-tri-bu-tions of $\OML/lmm/m/it/10 ^^\[]$\OT1/lmr/m/n/10 , $\OML/lmm/m/it/10 V[]$\OT1/lmr/m/n/10 , 
+ []
+
+
+Overfull \hbox (8.98442pt too wide) in paragraph at lines 550--551
+\OT1/lmr/m/n/10 ^^A\OML/lmm/m/it/10 ^^\$\OT1/lmr/m/n/10 , $\OML/lmm/m/it/10 a$\OT1/lmr/m/n/10 , and $\OML/lmm/m/it/10 b$\OT1/lmr/m/n/10 . The model suc-cess-fully re-pro-duces the global slip rate, par-tic-u-larly in re- 
+ []
+
+
+Overfull \hbox (10.6824pt too wide) in paragraph at lines 550--551
+\OT1/lmr/m/n/10 gions char-ac-ter-ized by sharp gra-di-ents, such as the rup-ture front. Dis-crep-an-cies arise in 
+ []
+
+
+Overfull \hbox (16.23775pt too wide) in paragraph at lines 550--551
+\OT1/lmr/m/n/10 re-gions where re-solv-ing closely spaced high-frequency com-po-nents is re-quired. These fea- 
+ []
+
+
+Overfull \hbox (25.56996pt too wide) in paragraph at lines 550--551
+\OT1/lmr/m/n/10 tures re-flect a phe-nomenon known as spec-tral bias []Rahaman et al.[], 2019; Cao et al.[], 2019; 
+ []
+
+
+Overfull \hbox (8.0981pt too wide) in paragraph at lines 550--551
+\OT1/lmr/m/n/10 Kong et al.[], 2025), which im-plies that deep learn-ing mod-els pre-dict high-frequency fea- 
+ []
+
+
+Overfull \hbox (6.04318pt too wide) in paragraph at lines 550--551
+\OT1/lmr/m/n/10 tures less ac-cu-rately than lower-frequency ones. In Ap-pendix B[], we dis-cuss a po-ten-tial 
+ []
+
+<figures/V2/2D_pred_test.png, id=61, 1156.32pt x 1445.4pt>
+File: figures/V2/2D_pred_test.png Graphic file (type png)
+<use figures/V2/2D_pred_test.png>
+Package pdftex.def Info: figures/V2/2D_pred_test.png  used on input line 555.
+(pdftex.def)             Requested size: 397.48499pt x 496.85504pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--563
+[]\OT1/lmr/bx/n/9 Figure  5. []\OT1/lmr/m/n/9 Test-ing of the trained FNO-1D model on the 2D dy-namic rup-ture dataset. (a)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--563
+\OT1/lmr/m/n/9 In-puts in-clude the ini-tial frac-tal shear stress dis-tri-bu-tion $\OML/lmm/m/it/9 ^^\[]$ \OT1/lmr/m/n/9 with $\OML/lmm/m/it/9 D \OT1/lmr/m/n/9 = 1\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 2$, ini-tial slip rate at
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 563--563
+\OT1/lmr/m/n/9 the time step where $[](\OML/lmm/m/it/9 V\OT1/lmr/m/n/9 ) \OML/lmm/m/it/9 > V[]$ \OT1/lmr/m/n/9 with $\OML/lmm/m/it/9 V[] \OT1/lmr/m/n/9 = 1\OML/lmm/m/it/9 e \OMS/lmsy/m/n/9 ^^@ \OT1/lmr/m/n/9 2$, fric-tional pa-ram-e-ters $\OML/lmm/m/it/9 a$ \OT1/lmr/m/n/9 and $\OML/lmm/m/it/9 b$ \OT1/lmr/m/n/9 where
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--563
+\OT1/lmr/m/n/9 the same thresh-olded step. The out-puts are pre-dicted slip rate snap-shots at se-lected time steps
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 563--563
+\OT1/lmr/m/n/9 fol-low-ing this point (rows 3--7). (b--d) Same as (a), but with vary-ing con-di-tions: (b) $\OML/lmm/m/it/9 D \OT1/lmr/m/n/9 = 1\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 5$,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]\OT1/lmr/bx/n/9 Table 3. \OT1/lmr/m/n/9 Me-dian and me-dian ab-so-lute de-vi-a-tion (MAD) of NRMSE and rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-ror in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\OT1/lmr/m/n/9 the bracket shown in Fig-ure 6[] for 28,700 train-ing sam-ples and 4,100 test-ing sam-ples of 2D and
+ []
+
+
+Overfull \hbox (25.80722pt too wide) in paragraph at lines 587--588
+[]\OT1/lmr/m/n/10 We sum-ma-rize the NRMSE and rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror on the train-ing and test-ing datasets 
+ []
+
+
+Overfull \hbox (8.70885pt too wide) in paragraph at lines 587--588
+\OT1/lmr/m/n/10 in Fig-ure 6[]. Test-ing sam-ples show slightly higher er-rors but still fol-low the same dis-tri- 
+ []
+
+
+Overfull \hbox (16.68141pt too wide) in paragraph at lines 587--588
+\OT1/lmr/m/n/10 bu-tion as the train-ing set, sug-gest-ing no ma-jor over-fit-ting. The ma-jor-ity of sam-ples have 
+ []
+
+
+Overfull \hbox (8.06937pt too wide) in paragraph at lines 587--588
+\OT1/lmr/m/n/10 small er-rors and are highly skewed to-wards zero, with the me-dian and me-dian ab-so-lute 
+ []
+
+
+Overfull \hbox (11.54353pt too wide) in paragraph at lines 587--588
+\OT1/lmr/m/n/10 de-vi-a-tion (MAD) of the er-rors pre-sented in Ta-ble 3[]. Ac-cord-ing to Fig-ure 6[]b, more than 
+ []
+
+
+Overfull \hbox (26.16727pt too wide) in paragraph at lines 587--588
+\OT1/lmr/m/n/10 95$%$ of the train-ing set shows a rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror of less than 10$%$, while this frac-tion drops 
+ []
+
+
+Overfull \hbox (18.70999pt too wide) in paragraph at lines 587--588
+\OT1/lmr/m/n/10 to 90$%$ for the test-ing set. This level of the er-ror sug-gests that the model gen-er-al-izes well 
+ []
+
+
+Overfull \hbox (3.20984pt too wide) in paragraph at lines 587--588
+\OT1/lmr/m/n/10 to un-seen data. Ex-am-ples of the pre-dic-tions cor-re-spond-ing to dif-fer-ent se-lected val-ues 
+ []
+
+
+Underfull \vbox (badness 2951) has occurred while \output is active []
+
+ [12 <./figures/V2/loss.png>] [13 <./figures/V2/2D_pred_test.png>]
+<figures/V2/stats.png, id=74, 875.55106pt x 514.20105pt>
+File: figures/V2/stats.png Graphic file (type png)
+<use figures/V2/stats.png>
+Package pdftex.def Info: figures/V2/stats.png  used on input line 591.
+(pdftex.def)             Requested size: 357.73405pt x 210.0941pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+[]\OT1/lmr/bx/n/9 Figure  6. []\OT1/lmr/m/n/9 Er-ror anal-y-sis for 2D and 3D dy-namic rup-ture pre-dic-tions. (a) and (d) show his-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+\OT1/lmr/m/n/9 tograms of the rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-ror dis-tri-bu-tions for the train-ing (blue) and test-ing (or-ange) datasets
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+\OT1/lmr/m/n/9 in the 2D and 3D cases, re-spec-tively. Sim-i-larly, (c) and (f) show his-tograms of the NRMSE dis-tri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+\OT1/lmr/m/n/9 bu-tions for the train-ing (blue) and test-ing (or-ange) datasets in the 2D and 3D cases. The ver-ti-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+\OT1/lmr/m/n/9 lines in-di-cate the me-dian er-ror for the train-ing (gray solid) and test-ing (green solid) datasets, as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+\OT1/lmr/m/n/9 well as the me-dian $\OMS/lmsy/m/n/9 ^^F$ \OT1/lmr/m/n/9 me-dian ab-so-lute de-vi-a-tion (MAD) range for the train-ing (gray dashed) and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+\OT1/lmr/m/n/9 test-ing (green dashed) datasets. (b) and (e) show the cu-mu-la-tive his-tograms of the rel-a-tive $\OML/lmm/m/it/9 L[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+\OT1/lmr/m/n/9 er-ror dis-tri-bu-tions for the train-ing (blue) and test-ing (or-ange) datasets in the 2D and 3D cases,
+ []
+
+
+Overfull \hbox (7.8498pt too wide) in paragraph at lines 600--601
+[]\OT1/lmr/m/n/10 An ad-van-tage of FNOs is that they can tar-get the un-der-ly-ing op-er-a-tor, and learn 
+ []
+
+
+Overfull \hbox (1.07034pt too wide) in paragraph at lines 600--601
+\OT1/lmr/m/n/10 to han-dle a fam-ily of prob-lems rather than a sin-gle in-stance. Ac-cord-ingly, in this sec- 
+ []
+
+
+Overfull \hbox (12.70972pt too wide) in paragraph at lines 600--601
+\OT1/lmr/m/n/10 tion we test the gen-er-al-iza-tion of our trained op-er-a-tor to some un-seen ini-tial con-di-tions.  
+ []
+
+
+Overfull \hbox (7.93272pt too wide) in paragraph at lines 602--603
+[]\OT1/lmr/m/n/10 We eval-u-ate the trained FNO-1D model, orig-i-nally trained on ini-tial frac-tal shear 
+ []
+
+
+Overfull \hbox (5.45525pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 stress $\OML/lmm/m/it/10 ^^\[]$\OT1/lmr/m/n/10 , us-ing a uni-form ini-tial shear stress con-sis-tent with TPV101 prob-lem de-scrip- 
+ []
+
+
+Overfull \hbox (9.12265pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 tion []Harris et al.[], 2018, 2009; Kam-mer et al.[], 2021). The ini-tial shear stress of $\OML/lmm/m/it/10 ^^\[] \OT1/lmr/m/n/10 = 75$ 
+ []
+
+
+Overfull \hbox (4.20996pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 MPa is pre-scribed along the en-tire fault. This value is within the range of shear stress 
+ []
+
+
+Overfull \hbox (15.29364pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 val-ues in the frac-tal dataset. How-ever, the net-work has not seen a spa-tially uni-form case 
+ []
+
+
+Overfull \hbox (1.87645pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 be-fore this test. We com-pare pre-dic-tions from the FNO-1D model against the ground 
+ []
+
+
+Overfull \hbox (12.36235pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 truth in Fig-ure 7[]. The com-puted NRMSE and rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror be-tween the pre-dic-tions 
+ []
+
+
+Overfull \hbox (1.2382pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 and ground truth are 0.00560 and 0.0381, re-spec-tively. FNO-1D shows abil-ity to cap- 
+ []
+
+
+Overfull \hbox (8.76523pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 ture slip rate evo-lu-tion, par-tic-u-larly dur-ing rup-ture prop-a-ga-tion in the VW regime and 
+ []
+
+
+Overfull \hbox (5.79315pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 tran-si-tion-ing into the VS re-gion. We ob-serve mi-nor noise near the rup-ture front in the 
+ []
+
+
+Overfull \hbox (19.12518pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 pre-dicted so-lu-tion, along with slight mis-matches in peak mag-ni-tudes at later times. How- 
+ []
+
+
+Overfull \hbox (13.43195pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 ever, the global fea-tures of slip rate re-mains con-sis-tent with the ground truth. These re- 
+ []
+
+
+Overfull \hbox (4.6828pt too wide) in paragraph at lines 602--603
+\OT1/lmr/m/n/10 sults high-light the ro-bust-ness of FNO-1D, as the model suc-cess-fully gen-er-al-izes to this 
+ []
+
+<figures/V2/2D_scec.png, id=75, 1734.48pt x 722.7pt>
+File: figures/V2/2D_scec.png Graphic file (type png)
+<use figures/V2/2D_scec.png>
+Package pdftex.def Info: figures/V2/2D_scec.png  used on input line 606.
+(pdftex.def)             Requested size: 397.48499pt x 165.61098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]\OT1/lmr/bx/n/9 Figure  7. []\OT1/lmr/m/n/9 Re-sults of FNO-1D test-ing on an un-seen shear stress dis-tri-bu-tion from the TPV101
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+\OT1/lmr/m/n/9 SCEC/USGS bench-mark. Pan-els (a) and (b) show se-lected in-put fea-tures: (a) a uni-form ini-
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 608--608
+\OT1/lmr/m/n/9 tial shear stress $\OML/lmm/m/it/9 ^^\[] \OT1/lmr/m/n/9 = 75$ MPa, and (b) the fric-tional pa-ram-e-ters $\OML/lmm/m/it/9 a$ \OT1/lmr/m/n/9 and $\OML/lmm/m/it/9 b$\OT1/lmr/m/n/9 , with $\OML/lmm/m/it/9 a[] \OT1/lmr/m/n/9 = 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 008$,
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 608--608
+\OT1/lmr/m/n/9 ^^A\OML/lmm/m/it/9 a[] \OT1/lmr/m/n/9 = 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 008$, and $\OML/lmm/m/it/9 b \OT1/lmr/m/n/9 = 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 012$. Other model in-puts (e.g., ini-tial slip rate $\OML/lmm/m/it/9 V[]$ \OT1/lmr/m/n/9 with a thresh-old
+ []
+
+
+Overfull \hbox (12.87608pt too wide) in paragraph at lines 611--612
+[]\OT1/lmr/m/n/10 Additionally, we eval-u-ate the per-for-mance of FNO-1D on an un-seen frac-tal di-men- 
+ []
+
+
+Overfull \hbox (4.82217pt too wide) in paragraph at lines 611--612
+\OT1/lmr/m/n/10 sion $\OML/lmm/m/it/10 D \OT1/lmr/m/n/10 = 1\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 3$, which was not in-cluded in the train-ing set. We gen-er-ate 100 re-al-iza-tions 
+ []
+
+
+Overfull \hbox (9.90382pt too wide) in paragraph at lines 611--612
+\OT1/lmr/m/n/10 with $\OML/lmm/m/it/10 D \OT1/lmr/m/n/10 = 1\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 3$ and ran-domly sam-pled fric-tional pa-ram-e-ters from the ranges listed in Ta- 
+ []
+
+
+Overfull \hbox (15.57042pt too wide) in paragraph at lines 611--612
+\OT1/lmr/m/n/10 ble 2[]. Af-ter pre-pro-cess-ing the data us-ing slip rate thresh-olds $\OML/lmm/m/it/10 V[] \OMS/lmsy/m/n/10 2 f\OT1/lmr/m/n/10 0\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OMS/lmsy/m/n/10 g$\OT1/lmr/m/n/10 , 
+ []
+
+
+Overfull \hbox (16.50131pt too wide) in paragraph at lines 611--612
+\OT1/lmr/m/n/10 we ob-tain a to-tal of 400 re-al-iza-tions for test-ing. The dis-tri-bu-tion of rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror and 
+ []
+
+
+Overfull \hbox (24.62517pt too wide) in paragraph at lines 611--612
+\OT1/lmr/m/n/10 NRMSE is shown in Fig-ures 8[]a and  8[]c. The dis-tri-bu-tion shows a high vari-ance with some 
+ []
+
+
+Overfull \hbox (16.16837pt too wide) in paragraph at lines 611--612
+\OT1/lmr/m/n/10 cases have rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror close to 1.0. Ex-pand-ing the train-ing dataset is rec-om-mended 
+ []
+
+
+Overfull \hbox (14.65376pt too wide) in paragraph at lines 613--614
+[]\OT1/lmr/m/n/10 Figure 9[] shows an ex-am-ple of re-sults from FNO-1D com-pared to the ground truth, 
+ []
+
+
+Overfull \hbox (5.22424pt too wide) in paragraph at lines 613--614
+\OT1/lmr/m/n/10 with NRMSE and rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror of 0.00254 and 0.0131, re-spec-tively. FNO-1D ef-fec- 
+ []
+
+
+Overfull \hbox (4.57161pt too wide) in paragraph at lines 613--614
+\OT1/lmr/m/n/10 tively cap-tures both the low-frequency and high-frequency com-po-nents of the slip rate 
+ []
+
+
+Overfull \hbox (10.01526pt too wide) in paragraph at lines 613--614
+\OT1/lmr/m/n/10 with mi-nor dis-crep-an-cies at the peak at 12.3 s. The pre-dicted rup-ture front also closely 
+ []
+
+
+Overfull \hbox (10.23705pt too wide) in paragraph at lines 613--614
+\OT1/lmr/m/n/10 matches the ground truth dur-ing prop-a-ga-tion into the VS re-gion. This test fur-ther cor- 
+ []
+
+
+Overfull \hbox (24.93283pt too wide) in paragraph at lines 613--614
+\OT1/lmr/m/n/10 rob-o-rates the po-ten-tial of FNO-1D in pre-dict-ing slip rates un-der un-seen ini-tial shear stress 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14] [15 <./figures/V2/stats.png> <./figures/V2/2D_scec.png>]
+<figures/V2/2D_hist_unseen_2.png, id=84, 867.24pt x 578.16pt>
+File: figures/V2/2D_hist_unseen_2.png Graphic file (type png)
+<use figures/V2/2D_hist_unseen_2.png>
+Package pdftex.def Info: figures/V2/2D_hist_unseen_2.png  used on input line 617.
+(pdftex.def)             Requested size: 397.48499pt x 264.99522pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--619
+[]\OT1/lmr/bx/n/9 Figure  8. []\OT1/lmr/m/n/9 The dis-tri-bu-tion of (a) the rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-ror and (c) the NRMSE eval-u-ated on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--619
+\OT1/lmr/m/n/9 un-seen frac-tal di-men-sion cases, and (b) the rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-ror and (d) the NRMSE eval-u-ated on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--619
+\OT1/lmr/m/n/9 un-seen fric-tional pa-ram-e-ters for the 2D model. These re-sults are based on 400 re-al-iza-tions for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--619
+\OT1/lmr/m/n/9 each case. Ver-ti-cal lines in-di-cate the me-dian and MAD. For un-seen frac-tal di-men-sion cases, the
+ []
+
+<figures/V2/2D_unseend.png, id=85, 1734.48pt x 722.7pt>
+File: figures/V2/2D_unseend.png Graphic file (type png)
+<use figures/V2/2D_unseend.png>
+Package pdftex.def Info: figures/V2/2D_unseend.png  used on input line 624.
+(pdftex.def)             Requested size: 397.48499pt x 165.61098pt.
+
+Underfull \hbox (badness 6348) in paragraph at lines 626--626
+[]\OT1/lmr/bx/n/9 Figure  9. []\OT1/lmr/m/n/9 Ex-am-ple of re-sults of FNO-1D test-ing on an un-seen frac-tal di-men-sion $\OML/lmm/m/it/9 D \OT1/lmr/m/n/9 = 1\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 3$.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/lmr/m/n/9 Pan-els (a) and (b) show se-lected in-put fea-tures: (a) ini-tial frac-tal shear stress dis-tri-bu-tions ($\OML/lmm/m/it/9 ^^\[]$\OT1/lmr/m/n/9 )
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 626--626
+\OT1/lmr/m/n/9 with $\OML/lmm/m/it/9 D \OT1/lmr/m/n/9 = 1\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 3$ and (b) fric-tional pa-ram-e-ters $\OML/lmm/m/it/9 a$ \OT1/lmr/m/n/9 and $\OML/lmm/m/it/9 b$\OT1/lmr/m/n/9 , with $^^A\OML/lmm/m/it/9 a[] \OT1/lmr/m/n/9 = 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 0065$, $\OML/lmm/m/it/9 a[] \OT1/lmr/m/n/9 = 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 011$, and
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 626--626
+\OML/lmm/m/it/9 b \OT1/lmr/m/n/9 = 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 012$. Other model in-puts (i.e., ini-tial slip rate $\OML/lmm/m/it/9 V[]$ \OT1/lmr/m/n/9 with a thresh-old $\OML/lmm/m/it/9 V[] \OT1/lmr/m/n/9 = 10[]$ m/s and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/lmr/m/n/9 nu-cle-ation stress per-tur-ba-tion $^^A\OML/lmm/m/it/9 ^^\$\OT1/lmr/m/n/9 ) are not shown. Pan-els (c)-(j) show the out-puts con-sist of pre-
+ []
+
+
+Overfull \hbox (2.76619pt too wide) in paragraph at lines 632--633
+[]\OT1/lmr/m/n/10 We test the FNO-1D model on un-seen fric-tional pa-ram-e-ters, specif-i-cally the val- 
+ []
+
+
+Overfull \hbox (4.5092pt too wide) in paragraph at lines 632--633
+\OT1/lmr/m/n/10 ues of pa-ram-e-ters $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 b$ \OT1/lmr/m/n/10 listed in Ta-ble 4[]. We gen-er-ate 100 re-al-iza-tions by ran-domly 
+ []
+
+
+Overfull \hbox (11.0413pt too wide) in paragraph at lines 632--633
+\OT1/lmr/m/n/10 sam-pling the pa-ram-e-ters uni-formly from the spec-i-fied ranges in the ta-ble. Then, we ap- 
+ []
+
+
+Overfull \hbox (7.70877pt too wide) in paragraph at lines 632--633
+\OT1/lmr/m/n/10 ply the same pre-processing us-ing $\OML/lmm/m/it/10 V[] \OMS/lmsy/m/n/10 2 f\OT1/lmr/m/n/10 0\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OMS/lmsy/m/n/10 g$\OT1/lmr/m/n/10 . As such, we ob-tain a to- 
+ []
+
+
+Overfull \hbox (20.91884pt too wide) in paragraph at lines 632--633
+\OT1/lmr/m/n/10 tal of 400 test-ing sets. The dis-tri-bu-tions of the rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror and NRMSE across these 
+ []
+
+
+Overfull \hbox (14.87561pt too wide) in paragraph at lines 632--633
+\OT1/lmr/m/n/10 400 test-ing sets are shown in Fig-ures 8[]b and  8[]d. It is worth not-ing that more than 60% 
+ []
+
+
+Overfull \hbox (16.22433pt too wide) in paragraph at lines 632--633
+\OT1/lmr/m/n/10 of the test-ing sets ex-hibit a rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror be-low 0.20, demon-strat-ing the abil-ity of the 
+ []
+
+
+Overfull \hbox (18.1532pt too wide) in paragraph at lines 634--635
+[]\OT1/lmr/m/n/10 An ex-am-ple com-par-i-son be-tween the pre-dicted and ground truth slip rates is shown 
+ []
+
+
+Overfull \hbox (1.69016pt too wide) in paragraph at lines 634--635
+\OT1/lmr/m/n/10 in Fig-ure 10[]. In this case, the val-ues of pa-ram-e-ter $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 are $0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 0067$ in the VW re-gion and 
+ []
+
+
+Overfull \hbox (11.02847pt too wide) in paragraph at lines 634--635
+\OT1/lmr/m/n/10 0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 0177$ in the VS re-gion, while the pa-ram-e-ter $\OML/lmm/m/it/10 b$ \OT1/lmr/m/n/10 is set uni-formly to $0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 012$ along the fault. 
+ []
+
+
+Overfull \hbox (9.17886pt too wide) in paragraph at lines 634--635
+\OT1/lmr/m/n/10 The ini-tial shear stress $\OML/lmm/m/it/10 ^^\[]$ \OT1/lmr/m/n/10 fol-lows a frac-tal dis-tri-bu-tion with a frac-tal di-men-sion of $\OML/lmm/m/it/10 D \OT1/lmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (22.57076pt too wide) in paragraph at lines 634--635
+\OT1/lmr/m/n/10 al-though some dis-crep-an-cies are ob-served at high fre-quen-cies. The pre-dicted rup-ture front 
+ []
+
+
+Overfull \hbox (25.59833pt too wide) in paragraph at lines 634--635
+\OT1/lmr/m/n/10 closely fol-lows the ground truth, with only slight mis-matches at the peaks of rup-ture front. 
+ []
+
+
+Overfull \hbox (5.91838pt too wide) in paragraph at lines 634--635
+\OT1/lmr/m/n/10 Mi-nor os-cil-la-tions oc-cur at the tran-si-tion from the ini-tial slip rate $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 to the sharp gra- 
+ []
+
+[16 <./figures/V2/2D_hist_unseen_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 638--638
+[]\OT1/lmr/bx/n/9 Table 4. \OT1/lmr/m/n/9 Frac-tal di-men-sions and vari-a-tion of fric-tional pa-ram-e-ters $\OML/lmm/m/it/9 a$ \OT1/lmr/m/n/9 and $\OML/lmm/m/it/9 b$ \OT1/lmr/m/n/9 for test-ing the gen-
+ []
+
+<figures/V2/2D_unseenab.png, id=90, 1734.48pt x 722.7pt>
+File: figures/V2/2D_unseenab.png Graphic file (type png)
+<use figures/V2/2D_unseenab.png>
+Package pdftex.def Info: figures/V2/2D_unseenab.png  used on input line 658.
+(pdftex.def)             Requested size: 397.48499pt x 165.61098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--660
+[]\OT1/lmr/bx/n/9 Figure  10. []\OT1/lmr/m/n/9 Ex-am-ple of re-sults of FNO-1D test-ing on un-seen $\OML/lmm/m/it/9 a \OMS/lmsy/m/n/9 ^^@ \OML/lmm/m/it/9 b$\OT1/lmr/m/n/9 . Pan-els (a) and (b) show
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 660--660
+\OT1/lmr/m/n/9 se-lected in-put fea-tures: (a) ini-tial frac-tal shear stress dis-tri-bu-tions ($\OML/lmm/m/it/9 ^^\[]$\OT1/lmr/m/n/9 ) with $\OML/lmm/m/it/9 D \OT1/lmr/m/n/9 = 1\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 6$ and (b)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--660
+\OT1/lmr/m/n/9 not shown. Pan-els (c)-(j) show the out-puts con-sist of pre-dicted slip rate pro-files at se-lected time
+ []
+
+
+Overfull \hbox (9.43213pt too wide) in paragraph at lines 669--670
+[]\OT1/lmr/m/n/10 We per-form hy-per-pa-ram-e-ter tun-ing for FNO-2D, re-sult-ing in an ar-chi-tec-ture con- 
+ []
+
+
+Overfull \hbox (11.79303pt too wide) in paragraph at lines 669--670
+\OT1/lmr/m/n/10 sist-ing of four Fourier lay-ers. The lift-ing and pro-ject-ing fully con-nected neu-ral net-works 
+ []
+
+
+Overfull \hbox (7.87604pt too wide) in paragraph at lines 669--670
+\OT1/lmr/m/n/10 each con-tain 128 neu-rons. Af-ter ap-ply-ing the Fourier trans-form, 32 modes are re-tained 
+ []
+
+
+Overfull \hbox (13.16675pt too wide) in paragraph at lines 669--670
+\OT1/lmr/m/n/10 in the lin-ear trans-for-ma-tion, and the GELU ac-ti-va-tion func-tion is em-ployed. The model 
+ []
+
+
+Overfull \hbox (15.028pt too wide) in paragraph at lines 669--670
+\OT1/lmr/m/n/10 is trained us-ing the Adam op-ti-mizer with a batch size of 10, a learn-ing rate of $10[]$, and 
+ []
+
+
+Overfull \hbox (16.44456pt too wide) in paragraph at lines 669--670
+\OT1/lmr/m/n/10 a weight de-cay of $10[]$, fol-low-ing a co-sine an-neal-ing sched-ule. Train-ing spans 500 epochs 
+ []
+
+
+Overfull \hbox (9.09836pt too wide) in paragraph at lines 669--670
+\OT1/lmr/m/n/10 un-til the loss sta-bi-lizes. Train-ing and test-ing losses over op-ti-miza-tion epochs are shown 
+ []
+
+
+Overfull \hbox (5.37666pt too wide) in paragraph at lines 669--670
+\OT1/lmr/m/n/10 in Fig-ure 4[]b. Both train-ing and test-ing losses con-sis-tently de-crease with-out sig-nif-i-cant 
+ []
+
+
+Overfull \hbox (20.01527pt too wide) in paragraph at lines 671--672
+[]\OT1/lmr/m/n/10 Figure 11[] il-lus-trates a suc-cess-ful ex-am-ple of the pre-dic-tions com-pared to the ground 
+ []
+
+
+Overfull \hbox (21.15454pt too wide) in paragraph at lines 671--672
+\OT1/lmr/m/n/10 truth. It shows the rup-ture front con-tours in the VW re-gion at 0.5-second in-ter-vals, along 
+ []
+
+
+Overfull \hbox (3.6279pt too wide) in paragraph at lines 671--672
+\OT1/lmr/m/n/10 with time se-ries at six se-lected points in the VW re-gion. FNO-2D ac-cu-rately cap-tures 
+ []
+
+
+Overfull \hbox (17.52881pt too wide) in paragraph at lines 671--672
+\OT1/lmr/m/n/10 the rup-ture front con-tours with NRMSE of 0.003035 and rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror of 0.1002. The 
+ []
+
+
+Overfull \hbox (16.95917pt too wide) in paragraph at lines 671--672
+\OT1/lmr/m/n/10 pre-dicted rup-ture ar-rival times and wave-form shapes align closely with the ground truth, 
+ []
+
+
+Overfull \hbox (18.5718pt too wide) in paragraph at lines 671--672
+\OT1/lmr/m/n/10 al-though the nu-cle-ation site is not cen-tered. Mi-nor dis-crep-an-cies can be ob-served in peak 
+ []
+
+
+Overfull \hbox (8.15382pt too wide) in paragraph at lines 671--672
+\OT1/lmr/m/n/10 am-pli-tudes, par-tic-u-larly at points C, E and F. How-ever, the over-all agree-ment be-tween 
+ []
+
+[17 <./figures/V2/2D_unseend.png>]
+Overfull \hbox (28.61186pt too wide) in paragraph at lines 673--674
+[]\OT1/lmr/m/n/10 The dis-tri-bu-tions of rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror and NRMSE dur-ing the pre-dic-tion phase, shown 
+ []
+
+
+Overfull \hbox (9.01535pt too wide) in paragraph at lines 673--674
+\OT1/lmr/m/n/10 in Fig-ures 6[]d, 6[]e, and 6[]f, fur-ther con-firm that no over-fit-ting is oc-cur-ring, as the test-ing 
+ []
+
+
+Overfull \hbox (28.48831pt too wide) in paragraph at lines 673--674
+\OT1/lmr/m/n/10 dataset fol-lows the same trend as the train-ing dataset. More-over, the dis-tri-bu-tion is skewed 
+ []
+
+
+Overfull \hbox (16.64038pt too wide) in paragraph at lines 673--674
+\OT1/lmr/m/n/10 to-ward zero. More than $90%$ of the train-ing dataset has rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-rors less than $20%$, 
+ []
+
+
+Overfull \hbox (10.09816pt too wide) in paragraph at lines 673--674
+\OT1/lmr/m/n/10 while this pro-por-tion drops to $80%$ for the test-ing dataset. The mod-est de-crease in this 
+ []
+
+
+Overfull \hbox (6.62614pt too wide) in paragraph at lines 673--674
+\OT1/lmr/m/n/10 pro-por-tion con-firms that the model gen-er-al-izes well and does not over-fit. In-ter-est-ingly, 
+ []
+
+
+Overfull \hbox (2.86215pt too wide) in paragraph at lines 673--674
+\OT1/lmr/m/n/10 we have found that even in cases where the model pre-dic-tions show higher rel-a-tive $\OML/lmm/m/it/10 L[]$ 
+ []
+
+
+Overfull \hbox (12.59851pt too wide) in paragraph at lines 673--674
+\OT1/lmr/m/n/10 er-rors, the model still suc-cess-fully cap-tures the ma-jor fea-tures of rup-ture dy-nam-ics. Ex- 
+ []
+
+
+Overfull \hbox (1.6537pt too wide) in paragraph at lines 673--674
+\OT1/lmr/m/n/10 am-ples of pre-dic-tions with higher rel-a-tive er-ror are pro-vided in the sup-ple-men-tary in- 
+ []
+
+<figures/V2/3D_fractal_test.png, id=96, 856.8813pt x 273.1806pt>
+File: figures/V2/3D_fractal_test.png Graphic file (type png)
+<use figures/V2/3D_fractal_test.png>
+Package pdftex.def Info: figures/V2/3D_fractal_test.png  used on input line 677.
+(pdftex.def)             Requested size: 397.48499pt x 126.7192pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--679
+[]\OT1/lmr/bx/n/9 Figure  11. []\OT1/lmr/m/n/9 Re-sults of FNO-2D on the test-ing dataset for 3D dy-namic rup-ture. In-puts in-clude
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--679
+\OT1/lmr/m/n/9 a frac-tal ini-tial shear stress dis-tri-bu-tion with $\OML/lmm/m/it/9 D \OT1/lmr/m/n/9 = 1\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 6$, ini-tial slip rate $\OML/lmm/m/it/9 V[]$ \OT1/lmr/m/n/9 ex-tracted at the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--679
+\OT1/lmr/m/n/9 con-tours shown at 0.5 s in-ter-vals. (b) Time se-ries of slip rate at se-lected lo-ca-tions within the VW
+ []
+
+
+Overfull \hbox (8.87593pt too wide) in paragraph at lines 685--686
+[]\OT1/lmr/m/n/10 Similar to the 2D model, we eval-u-ate the trained FNO-2D model us-ing an un-seen 
+ []
+
+
+Overfull \hbox (13.62642pt too wide) in paragraph at lines 685--686
+\OT1/lmr/m/n/10 ini-tial shear stress dis-tri-bu-tion, specif-i-cally the uni-form stress dis-tri-bu-tion de-fined in the 
+ []
+
+
+Overfull \hbox (5.63895pt too wide) in paragraph at lines 685--686
+\OT1/lmr/m/n/10 TPV101 bench-mark from the SCEC/USGS dy-namic earth-quake rup-ture code ver-i-fi-ca- 
+ []
+
+
+Overfull \hbox (20.29333pt too wide) in paragraph at lines 685--686
+\OT1/lmr/m/n/10 tion ex-er-cise. In this bench-mark, the ini-tial shear stress is uni-formly set to 75 MPa, while 
+ []
+
+
+Overfull \hbox (23.09787pt too wide) in paragraph at lines 685--686
+\OT1/lmr/m/n/10 fric-tional pa-ram-e-ters re-main within the train-ing range of the 3D dy-namic rup-ture dataset.  
+ []
+
+
+Overfull \hbox (6.85196pt too wide) in paragraph at lines 687--688
+[]\OT1/lmr/m/n/10 Figure 12[] shows the rup-ture con-tours of the pre-dicted com-po-nent of slip rate $\OML/lmm/m/it/10 V[]$ 
+ []
+
+
+Overfull \hbox (3.34892pt too wide) in paragraph at lines 687--688
+\OT1/lmr/m/n/10 com-pared to the ground truth, as well as the time his-tory at six se-lected points in the 
+ []
+
+
+Overfull \hbox (21.43604pt too wide) in paragraph at lines 687--688
+\OT1/lmr/m/n/10 VW re-gion. FNO-2D can cap-ture the evo-lu-tion of $\OML/lmm/m/it/10 V[]$\OT1/lmr/m/n/10 . The pre-dicted rup-ture front aligns 
+ []
+
+
+Overfull \hbox (4.69568pt too wide) in paragraph at lines 687--688
+\OT1/lmr/m/n/10 closely with the ground truth with NRMSE of 0.01505 and rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror of 0.3821. 
+ []
+
+
+Overfull \hbox (0.76463pt too wide) in paragraph at lines 687--688
+\OT1/lmr/m/n/10 The pre-dicted time se-ries also match well with the ground truth, cap-tur-ing the peaks 
+ []
+
+
+Overfull \hbox (1.71376pt too wide) in paragraph at lines 687--688
+\OT1/lmr/m/n/10 and fine-scale de-tails of $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 over time. Mi-nor time shifts ap-pear at later stages as the 
+ []
+
+
+Overfull \hbox (11.15417pt too wide) in paragraph at lines 687--688
+\OT1/lmr/m/n/10 rup-ture ap-proaches the VW bound-aries. Al-though there are some dis-crep-an-cies in peak 
+ []
+
+
+Overfull \hbox (2.5153pt too wide) in paragraph at lines 687--688
+\OT1/lmr/m/n/10 mag-ni-tudes, which con-tribute to the over-all er-ror, the model suc-cess-fully cap-tures the 
+ []
+
+
+Overfull \hbox (2.48697pt too wide) in paragraph at lines 687--688
+\OT1/lmr/m/n/10 rup-ture ar-rival time and the over-all wave-form shape. This demon-strates the po-ten-tial 
+ []
+
+
+Overfull \hbox (5.01578pt too wide) in paragraph at lines 687--688
+\OT1/lmr/m/n/10 of FNO-2D in cap-tur-ing the highly non-lin-ear evo-lu-tion of slip rate over time, even un- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./figures/V2/2D_unseenab.png>]
+<figures/V2/3D_fractal_unseen_scec.png, id=101, 856.8813pt x 273.1806pt>
+File: figures/V2/3D_fractal_unseen_scec.png Graphic file (type png)
+<use figures/V2/3D_fractal_unseen_scec.png>
+Package pdftex.def Info: figures/V2/3D_fractal_unseen_scec.png  used on input line 691.
+(pdftex.def)             Requested size: 397.48499pt x 126.7192pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 693--693
+[]\OT1/lmr/bx/n/9 Figure  12. []\OT1/lmr/m/n/9 Re-sults of FNO-2D test-ing on an un-seen shear stress dis-tri-bu-tion from the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 693--693
+\OT1/lmr/m/n/9 TPV101 SCEC/USGS bench-mark with a uni-form shear stress of 75 MPa, $^^A\OML/lmm/m/it/9 a[] \OT1/lmr/m/n/9 = 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 008$,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 693--693
+\OT1/lmr/m/n/9 (black) and pre-dic-tions (red), show-ing pro-gres-sion at 0.5 s in-ter-vals. (b) Time his-to-ries of slip
+ []
+
+
+Overfull \hbox (1.2373pt too wide) in paragraph at lines 696--697
+[]\OT1/lmr/m/n/10 Additionally, we test the model on a frac-tal ini-tial shear stress dis-tri-bu-tion with 
+ []
+
+
+Overfull \hbox (6.21133pt too wide) in paragraph at lines 696--697
+\OT1/lmr/m/n/10 an un-seen frac-tal di-men-sion $\OML/lmm/m/it/10 D \OT1/lmr/m/n/10 = 1\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 3$, sim-i-lar to the FNO-1D case. We gen-er-ate an ad- 
+ []
+
+
+Overfull \hbox (12.90396pt too wide) in paragraph at lines 696--697
+\OT1/lmr/m/n/10 di-tional 100 re-al-iza-tions with $\OML/lmm/m/it/10 D \OT1/lmr/m/n/10 = 1\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 3$ and ran-domly sam-pled fric-tional pa-ram-e-ters from 
+ []
+
+
+Overfull \hbox (6.20996pt too wide) in paragraph at lines 696--697
+\OT1/lmr/m/n/10 the seen ranges dur-ing train-ing, as listed in Ta-ble 2[]. We pre-pro-cess the data such that 
+ []
+
+
+Overfull \hbox (13.08449pt too wide) in paragraph at lines 696--697
+\OT1/lmr/m/n/10 re-sults in 400 re-al-iza-tions. The dis-tri-bu-tions of rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror and NRMSE are shown 
+ []
+
+
+Overfull \hbox (0.6257pt too wide) in paragraph at lines 696--697
+\OT1/lmr/m/n/10 in Fig-ures 13[]a and 13[]c. Both dis-tri-bu-tions are skewed to-wards zero, show-ing gen-er-al- 
+ []
+
+
+Underfull \vbox (badness 5878) has occurred while \output is active []
+
+ [19 <./figures/V2/3D_fractal_test.png> <./figures/V2/3D_fractal_unseen_scec.png>]
+<figures/V2/3D_hist_unseen_2.png, id=109, 867.24pt x 578.16pt>
+File: figures/V2/3D_hist_unseen_2.png Graphic file (type png)
+<use figures/V2/3D_hist_unseen_2.png>
+Package pdftex.def Info: figures/V2/3D_hist_unseen_2.png  used on input line 700.
+(pdftex.def)             Requested size: 397.48499pt x 264.99522pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--702
+[]\OT1/lmr/bx/n/9 Figure  13. []\OT1/lmr/m/n/9 The dis-tri-bu-tion of (a) the rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-ror and (c) the NRMSE eval-u-ated on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--702
+\OT1/lmr/m/n/9 un-seen frac-tal di-men-sion cases, and (b) the rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-ror and (d) the NRMSE eval-u-ated on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--702
+\OT1/lmr/m/n/9 un-seen fric-tional pa-ram-e-ters for the 3D model. These re-sults are based on 400 re-al-iza-tions for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--702
+\OT1/lmr/m/n/9 each case. Ver-ti-cal lines in-di-cate the me-dian and MAD. For un-seen frac-tal di-men-sion cases, the
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 702--702
+\OT1/lmr/m/n/9 me-dian $\OMS/lmsy/m/n/9 ^^F$ \OT1/lmr/m/n/9 MAD of the rel-a-tive er-ror is $0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 245 \OMS/lmsy/m/n/9 ^^F \OT1/lmr/m/n/9 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 0557$ and of the NRMSE is $0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 00692 \OMS/lmsy/m/n/9 ^^F \OT1/lmr/m/n/9 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 00175$.
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 702--702
+\OT1/lmr/m/n/9 For un-seen fric-tional pa-ram-e-ters cases, the me-dian $\OMS/lmsy/m/n/9 ^^F$ \OT1/lmr/m/n/9 MAD of the rel-a-tive er-ror is $0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 898 \OMS/lmsy/m/n/9 ^^F \OT1/lmr/m/n/9 0\OML/lmm/m/it/9 :\OT1/lmr/m/n/9 145$
+ []
+
+
+Overfull \hbox (8.40355pt too wide) in paragraph at lines 706--707
+[]\OT1/lmr/m/n/10 An ex-am-ple of the pre-dic-tions is pre-sented in terms of the rup-ture front and time 
+ []
+
+
+Overfull \hbox (5.53127pt too wide) in paragraph at lines 706--707
+\OT1/lmr/m/n/10 se-ries at se-lected points in Fig-ure 14[]. The fric-tional pa-ram-e-ters are $^^A\OML/lmm/m/it/10 a[] \OT1/lmr/m/n/10 = 0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 011$, $\OML/lmm/m/it/10 a[] \OT1/lmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (2.22342pt too wide) in paragraph at lines 706--707
+\OT1/lmr/m/n/10 the ground truth, re-sult-ing in an NRMSE of 0.00422 and a rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror of 0.1284 
+ []
+
+
+Overfull \hbox (5.3206pt too wide) in paragraph at lines 706--707
+\OT1/lmr/m/n/10 for this re-al-iza-tion. The model ac-cu-rately cap-tures the rup-ture ar-rival time. Peak am- 
+ []
+
+
+Overfull \hbox (11.29285pt too wide) in paragraph at lines 706--707
+\OT1/lmr/m/n/10 pli-tudes ex-hibit very small mis-matches at points D and E. Fur-ther-more, the pre-dic-tions 
+ []
+
+
+Overfull \hbox (20.2105pt too wide) in paragraph at lines 706--707
+\OT1/lmr/m/n/10 of post-peak de-cay closely match the ground truth. This demon-strates that FNO-2D gen- 
+ []
+
+<figures/V2/3D_fractal_unseend.png, id=110, 856.8813pt x 273.1806pt>
+File: figures/V2/3D_fractal_unseend.png Graphic file (type png)
+<use figures/V2/3D_fractal_unseend.png>
+Package pdftex.def Info: figures/V2/3D_fractal_unseend.png  used on input line 710.
+(pdftex.def)             Requested size: 397.48499pt x 126.7192pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 712--712
+\OT1/lmr/m/n/9 the ground truth (black) and pre-dic-tions (red), show-ing pro-gres-sion at 0.5 s in-ter-vals. (b) Time
+ []
+
+
+Overfull \hbox (10.37682pt too wide) in paragraph at lines 718--719
+[]\OT1/lmr/m/n/10 We eval-u-ate the gen-er-al-iza-tion per-for-mance of the trained FNO-2D model on pre- 
+ []
+
+
+Overfull \hbox (10.26569pt too wide) in paragraph at lines 718--719
+\OT1/lmr/m/n/10 vi-ously un-seen fric-tional pa-ram-e-ter val-ues. Specif-i-cally, we gen-er-ate 100 re-al-iza-tions us- 
+ []
+
+
+Overfull \hbox (19.93047pt too wide) in paragraph at lines 718--719
+\OT1/lmr/m/n/10 ing fric-tional pa-ram-e-ters sam-pled from com-bi-na-tions not in-cluded in the train-ing dataset, 
+ []
+
+
+Overfull \hbox (23.97322pt too wide) in paragraph at lines 718--719
+\OT1/lmr/m/n/10 as sum-ma-rized in Ta-ble 4[]. Af-ter pre-pro-cess-ing the data based on ve-loc-ity thresh-olds $\OML/lmm/m/it/10 V[] \OMS/lmsy/m/n/10 2 
+ []
+
+
+Overfull \hbox (11.60168pt too wide) in paragraph at lines 718--719
+\OMS/lmsy/m/n/10 f\OT1/lmr/m/n/10 0\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OML/lmm/m/it/10 ; \OT1/lmr/m/n/10 10[]\OMS/lmsy/m/n/10 g$\OT1/lmr/m/n/10 , we ob-tain a to-tal of 400 re-al-iza-tions with vary-ing $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 fields. Fig- 
+ []
+
+
+Overfull \hbox (18.2792pt too wide) in paragraph at lines 718--719
+\OT1/lmr/m/n/10 ures 13[]b and 13[]d show the dis-tri-bu-tions of the rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror and the NRMSE, re-spec- 
+ []
+
+
+Overfull \hbox (4.39021pt too wide) in paragraph at lines 718--719
+\OT1/lmr/m/n/10 tively. Al-though the rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror is high, with a me-dian of $0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 898$, the range of the 
+ []
+
+
+Overfull \hbox (1.0426pt too wide) in paragraph at lines 718--719
+\OT1/lmr/m/n/10 NRMSE in the 3D model is smaller than that in the 2D model. De-spite the lower ac- 
+ []
+
+
+Overfull \hbox (9.30742pt too wide) in paragraph at lines 718--719
+\OT1/lmr/m/n/10 cu-racy as mea-sured by the rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror, the 3D model demon-strates greater sta-bil- 
+ []
+
+[20 <./figures/V2/3D_hist_unseen_2.png>]
+Overfull \hbox (19.43266pt too wide) in paragraph at lines 721--722
+[]\OT1/lmr/m/n/10 Figure 15[] il-lus-trates a rep-re-sen-ta-tive case, in-clud-ing the pre-dicted rup-ture front and 
+ []
+
+
+Overfull \hbox (11.93544pt too wide) in paragraph at lines 721--722
+\OT1/lmr/m/n/10 time his-to-ries of the slip rate com-po-nent $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 at se-lected spa-tial lo-ca-tions. In this ex-am- 
+ []
+
+
+Overfull \hbox (3.13454pt too wide) in paragraph at lines 721--722
+\OT1/lmr/m/n/10 ple, the fric-tional pa-ram-e-ter $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 is set to $0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 0067$ in the VW re-gion and $0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 0177$ in the VS 
+ []
+
+
+Overfull \hbox (2.72255pt too wide) in paragraph at lines 721--722
+\OT1/lmr/m/n/10 re-gion, while pa-ram-e-ter $\OML/lmm/m/it/10 b$ \OT1/lmr/m/n/10 is uni-formly fixed at $0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 012$ along the fault. The ini-tial shear 
+ []
+
+
+Overfull \hbox (3.76537pt too wide) in paragraph at lines 723--724
+[]\OT1/lmr/m/n/10 We ob-serve spa-tial and tem-po-ral dis-crep-an-cies in the rup-ture front con-tours and 
+ []
+
+
+Overfull \hbox (38.54301pt too wide) in paragraph at lines 723--724
+\OT1/lmr/m/n/10 the time his-to-ries at points C, E, and F, which con-tribute to el-e-vated er-rors, with an NRMSE 
+ []
+
+
+Overfull \hbox (7.52818pt too wide) in paragraph at lines 723--724
+\OT1/lmr/m/n/10 of 0.0219 and a rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror of 0.6767. In par-tic-u-lar, mis-matches in the peak mag- 
+ []
+
+
+Overfull \hbox (11.32466pt too wide) in paragraph at lines 723--724
+\OT1/lmr/m/n/10 ni-tudes of $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 at these lo-ca-tions ac-count for a sig-nif-i-cant por-tion of the er-ror. How-ever, 
+ []
+
+
+Overfull \hbox (5.68596pt too wide) in paragraph at lines 723--724
+\OT1/lmr/m/n/10 the FNO-2D model suc-cess-fully cap-tures the over-all tem-po-ral evo-lu-tion of $\OML/lmm/m/it/10 V[]$\OT1/lmr/m/n/10 , in-clud- 
+ []
+
+
+Overfull \hbox (2.20892pt too wide) in paragraph at lines 723--724
+\OT1/lmr/m/n/10 ing the nu-cle-ation, prop-a-ga-tion, and ar-rest phases of rup-ture. In the fol-low-ing dis-cus- 
+ []
+
+
+Overfull \hbox (16.76508pt too wide) in paragraph at lines 723--724
+\OT1/lmr/m/n/10 sion, we ad-dress the spe-cific chal-lenges in gen-er-al-iz-ing to un-seen fric-tional prop-er-ties and 
+ []
+
+<figures/V2/3D_fractal_unseenab.png, id=115, 856.8813pt x 273.1806pt>
+File: figures/V2/3D_fractal_unseenab.png Graphic file (type png)
+<use figures/V2/3D_fractal_unseenab.png>
+Package pdftex.def Info: figures/V2/3D_fractal_unseenab.png  used on input line 727.
+(pdftex.def)             Requested size: 397.48499pt x 126.7192pt.
+
+Underfull \hbox (badness 1275) in paragraph at lines 729--729
+[]\OT1/lmr/bx/n/9 Figure  15. []\OT1/lmr/m/n/9 Re-sults of FNO-2D test-ing on an un-seen $\OML/lmm/m/it/9 a \OMS/lmsy/m/n/9 ^^@ \OML/lmm/m/it/9 b$ \OT1/lmr/m/n/9 dis-tri-bu-tion. In-puts con-sist of fric-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
+\OT1/lmr/m/n/9 con-tour plot show-ing pro-gres-sion at 0.5 s in-ter-vals. (b) Time his-to-ries of slip rate at se-lected
+ []
+
+
+Underfull \vbox (badness 1360) has occurred while \output is active []
+
+ [21 <./figures/V2/3D_fractal_unseend.png> <./figures/V2/3D_fractal_unseenab.png>]
+Overfull \hbox (4.20946pt too wide) in paragraph at lines 735--736
+[]\OT1/lmr/m/n/10 We sum-ma-rize the com-pu-ta-tional ef-fi-ciency of FNO-1D and FNO-2D in Ta-ble 5[]. 
+ []
+
+
+Overfull \hbox (0.306pt too wide) in paragraph at lines 735--736
+\OT1/lmr/m/n/10 Train-ing and test-ing times are re-ported for an NVIDIA A100 GPU, while the 3D dy- 
+ []
+
+
+Overfull \hbox (10.86183pt too wide) in paragraph at lines 735--736
+\OT1/lmr/m/n/10 namic rup-ture dataset is trained us-ing four par-al-lel NVIDIA A100 GPUs. Once trained 
+ []
+
+
+Overfull \hbox (2.4313pt too wide) in paragraph at lines 735--736
+\OT1/lmr/m/n/10 on the NCSA Delta sys-tem via AC-CESS al-lo-ca-tion []Boerner et al.[], 2023), these mod- 
+ []
+
+
+Overfull \hbox (1.87607pt too wide) in paragraph at lines 737--738
+[]\OT1/lmr/m/n/10 For the ap-pli-ca-tion we are propos-ing, the trained model is used di-rectly for sub- 
+ []
+
+
+Overfull \hbox (7.26457pt too wide) in paragraph at lines 737--738
+\OT1/lmr/m/n/10 se-quent pre-dic-tions. There-fore, we com-pare the FNO model's per-for-mance to the com- 
+ []
+
+
+Overfull \hbox (13.34845pt too wide) in paragraph at lines 737--738
+\OT1/lmr/m/n/10 pu-ta-tional time re-quired by a nu-mer-i-cal solver. To eval-u-ate the po-ten-tial com-pu-ta-tional 
+ []
+
+
+Overfull \hbox (9.34486pt too wide) in paragraph at lines 737--738
+\OT1/lmr/m/n/10 speed-up, we com-pare the nu-mer-i-cal sim-u-la-tion run time on an AMD EPYC 7763 \Mi- 
+ []
+
+
+Overfull \hbox (6.05423pt too wide) in paragraph at lines 737--738
+\OT1/lmr/m/n/10 lan" (PCIe Gen4) CPU to the FNO's test-ing time. The run times are 345 s for the 2D 
+ []
+
+
+Overfull \hbox (8.68031pt too wide) in paragraph at lines 737--738
+\OT1/lmr/m/n/10 sim-u-la-tion and 1182 s for the 3D sim-u-la-tion. The pre-dic-tions from the 2D and 3D sim- 
+ []
+
+
+Overfull \hbox (1.73804pt too wide) in paragraph at lines 739--740
+[]\OT1/lmr/m/n/10 Notably, the pre-dic-tion time does not in-crease sig-nif-i-cantly, de-spite the sub-stan- 
+ []
+
+
+Overfull \hbox (1.93057pt too wide) in paragraph at lines 739--740
+\OT1/lmr/m/n/10 tial in-crease in the num-ber of pa-ram-e-ters, from 2D to 3D. The train-ing time is slower 
+ []
+
+
+Overfull \hbox (10.01532pt too wide) in paragraph at lines 739--740
+\OT1/lmr/m/n/10 for the 3D sim-u-la-tion. How-ever, we pri-or-i-tize pre-dic-tion ac-cu-racy and test-ing time over 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+[]\OT1/lmr/bx/n/9 Table 5. \OT1/lmr/m/n/9 Com-par-i-son of dif-fer-ent mod-els in terms of pa-ram-e-ters, train-ing time, test-ing per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+\OT1/lmr/m/n/9 for-mance, and speed-up. The test-ing times are cal-cu-lated by tak-ing the me-dian of 100 ran-dom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+\OT1/lmr/m/n/9 cases. The speed-up is com-pared with nu-mer-i-cal sim-u-la-tion run time of 345 s for 2D and 1182 s
+ []
+
+
+Overfull \hbox (1.12701pt too wide) in paragraph at lines 763--764
+[]\OT1/lmr/m/n/10 To over-come the com-pu-ta-tional bot-tle-neck of clas-si-cal physics-based earth-quake 
+ []
+
+
+Overfull \hbox (6.26476pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 mod-els, we present an FNO-based sur-ro-gate model to ac-cel-er-ate dy-namic rup-ture sim- 
+ []
+
+
+Overfull \hbox (2.43176pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 u-la-tions. In the sur-ro-gate model, we pre-dict the evo-lu-tion of the slip rate dis-tri-bu-tion 
+ []
+
+
+Overfull \hbox (5.2659pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 on the fault plane, given the ini-tial dis-tri-bu-tion of shear stress, slip rate, stress per-tur- 
+ []
+
+
+Overfull \hbox (11.09189pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 ba-tion, and fric-tional pa-ram-e-ters $\OML/lmm/m/it/10 a$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 b$ \OT1/lmr/m/n/10 in the rate-and-state fric-tion law. The ground 
+ []
+
+
+Overfull \hbox (1.65332pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 truth is gen-er-ated us-ing the SBI method with dif-fer-ent ini-tial frac-tal shear stress, slip 
+ []
+
+
+Overfull \hbox (12.98686pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 rate, nu-cle-ation site, and fric-tional pa-ram-e-ter dis-tri-bu-tions in both 2D and 3D do-mains. 
+ []
+
+
+Overfull \hbox (15.32259pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 Each dataset is trained and tuned sep-a-rately us-ing FNO-1D and FNO-2D. We se-lect the 
+ []
+
+
+Overfull \hbox (6.79265pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 hy-per-pa-ram-e-ters based on a bal-ance be-tween com-pu-ta-tional ef-fi-ciency and ac-cu-racy as 
+ []
+
+
+Overfull \hbox (0.76418pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 dis-cussed in Ap-pendix B[]. As a re-sult, we achieve speedups of $4 \OMS/lmsy/m/n/10 ^^B \OT1/lmr/m/n/10 10[]$ and $2 \OMS/lmsy/m/n/10 ^^B \OT1/lmr/m/n/10 10[]$ com- 
+ []
+
+
+Overfull \hbox (1.95865pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 pared to the SBI method in 3D and 2D dy-namic rup-ture prob-lems, re-spec-tively. This 
+ []
+
+
+Overfull \hbox (5.59865pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 in-crease in speed po-ten-tially en-ables more ef-fi-cient dy-namic rup-ture in-ver-sion, sta-tis-ti- 
+ []
+
+
+Overfull \hbox (18.87689pt too wide) in paragraph at lines 763--764
+\OT1/lmr/m/n/10 cal anal-y-sis, and iden-ti-fi-ca-tion of ex-treme events in en-sem-bles of earth-quake rup-ture fore- 
+ []
+
+
+Overfull \hbox (7.9874pt too wide) in paragraph at lines 765--766
+[]\OT1/lmr/m/n/10 Predicted slip rates are eval-u-ated us-ing point-wise met-rics, in-clud-ing the NRMSE, 
+ []
+
+
+Overfull \hbox (1.32024pt too wide) in paragraph at lines 765--766
+\OT1/lmr/m/n/10 which com-pares pre-dic-tions with the ob-served range of the ground truth, and the rel- 
+ []
+
+
+Overfull \hbox (26.72375pt too wide) in paragraph at lines 765--766
+\OT1/lmr/m/n/10 a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror, which as-sesses the dis-crep-ancy at dis-crete points in the do-main. We demon- 
+ []
+
+
+Overfull \hbox (9.09973pt too wide) in paragraph at lines 765--766
+\OT1/lmr/m/n/10 strate that the train-ing pro-cess of FNO-based mod-els does not ex-hibit over-fit-ting. Test 
+ []
+
+
+Overfull \hbox (10.80608pt too wide) in paragraph at lines 765--766
+\OT1/lmr/m/n/10 dy-namic rup-ture dataset, the me-dian NRMSE is $0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 388%$ and the me-dian rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er- 
+ []
+
+
+Overfull \hbox (4.04225pt too wide) in paragraph at lines 765--766
+\OT1/lmr/m/n/10 ror is $2\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 70%$. For the 3D dy-namic rup-ture dataset, the me-dian NRMSE is $0\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 366%$ and 
+ []
+
+[22]
+Overfull \hbox (17.76387pt too wide) in paragraph at lines 767--768
+[]\OT1/lmr/m/n/10 Higher er-rors in the 3D prob-lem are pri-mar-ily due to down-sampling to a lower res- 
+ []
+
+
+Overfull \hbox (7.51445pt too wide) in paragraph at lines 767--768
+\OT1/lmr/m/n/10 o-lu-tion than the phys-i-cal prob-lem, re-sult-ing in a grid size that may smear some de-tails 
+ []
+
+
+Overfull \hbox (18.98698pt too wide) in paragraph at lines 767--768
+\OT1/lmr/m/n/10 in the pro-cess zone re-gion. This lim-i-ta-tion is due to con-strained com-pu-ta-tional re-sources. 
+ []
+
+
+Overfull \hbox (7.23743pt too wide) in paragraph at lines 767--768
+\OT1/lmr/m/n/10 Ac-cess to ad-di-tional re-sources would al-low train-ing at higher res-o-lu-tion, po-ten-tially re- 
+ []
+
+
+Overfull \hbox (11.87598pt too wide) in paragraph at lines 767--768
+\OT1/lmr/m/n/10 duc-ing these er-rors to a level com-pa-ra-ble to what is seen in the 2D prob-lem. The er-rors 
+ []
+
+
+Overfull \hbox (23.57092pt too wide) in paragraph at lines 767--768
+\OT1/lmr/m/n/10 are gen-er-ally more pro-nounced in re-gions with high-frequency fea-tures, re-flect-ing the spec- 
+ []
+
+
+Overfull \hbox (20.79283pt too wide) in paragraph at lines 767--768
+\OT1/lmr/m/n/10 tral bias, which states that deep learn-ing mod-els tend to fa-vor low-frequency com-po-nents. 
+ []
+
+
+Overfull \hbox (12.45992pt too wide) in paragraph at lines 769--770
+[]\OT1/lmr/m/n/10 We also eval-u-ate the mod-els un-der un-seen ini-tial stress dis-tri-bu-tions and fric-tional 
+ []
+
+
+Overfull \hbox (5.70909pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 pa-ram-e-ters. The FNO-based mod-els show ro-bust-ness in out-of-distribution cases, such 
+ []
+
+
+Overfull \hbox (15.5562pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 as a uni-form ini-tial stress dis-tri-bu-tion cor-re-spond-ing to the SCEC/USGS ver-i-fi-ca-tion ex- 
+ []
+
+
+Overfull \hbox (4.65347pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 er-cise. They also per-form well on a shear stress dis-tri-bu-tion with an un-seen frac-tal di- 
+ []
+
+
+Overfull \hbox (0.89015pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 men-sion of $\OML/lmm/m/it/10 D \OT1/lmr/m/n/10 = 1\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 3$, achiev-ing me-dian rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-rors of 31.3% in 2D and 24.5% in 
+ []
+
+
+Overfull \hbox (1.34804pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 3D. By con-trast, when tested on un-seen fric-tional pa-ram-e-ters, the model yields a me- 
+ []
+
+
+Overfull \hbox (1.72285pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 dian rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror of 13.0% in 2D but 89.8% in 3D. One im-por-tant source of er-ror 
+ []
+
+
+Overfull \hbox (5.26532pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 in FNO pre-dic-tions is spa-tial and tem-po-ral shifts. When the slip rate is small, the rel- 
+ []
+
+
+Overfull \hbox (13.25095pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror can be am-pli-fied, par-tic-u-larly where sharp, high-value rup-ture fronts shift 
+ []
+
+
+Overfull \hbox (10.40392pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 in space and time rel-a-tive to small slip rate val-ues. This re-duced ro-bust-ness may be at- 
+ []
+
+
+Overfull \hbox (5.40405pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 tributed to the fact that vari-a-tions in fric-tional pa-ram-e-ters mod-ify the un-der-ly-ing ma- 
+ []
+
+
+Overfull \hbox (7.34888pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 te-rial model and con-se-quently change the prop-er-ties of the gov-ern-ing op-er-a-tor. In con- 
+ []
+
+
+Overfull \hbox (1.2378pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 trast, chang-ing the shear stress dis-tri-bu-tion af-fects only the ini-tial con-di-tions with-out 
+ []
+
+
+Overfull \hbox (10.0143pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 mod-i-fy-ing the gov-ern-ing equa-tions. This lim-i-ta-tion could be mit-i-gated by train-ing with 
+ []
+
+
+Overfull \hbox (25.4597pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 a larger datasets. As demon-strated in Sec-tion Ap-pendix B[], in-creas-ing the size of the train- 
+ []
+
+
+Overfull \hbox (14.43091pt too wide) in paragraph at lines 769--770
+\OT1/lmr/m/n/10 ing dataset im-proves per-for-mance. A shared com-mu-nity database of large-scale dy-namic 
+ []
+
+
+Overfull \hbox (12.40466pt too wide) in paragraph at lines 771--772
+[]\OT1/lmr/m/n/10 We high-light a cou-ple of key as-pects of FNO as ap-plied to our prob-lem. The FNO 
+ []
+
+
+Overfull \hbox (5.68282pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 neu-ral ap-prox-i-ma-tion ef-fec-tively cap-tures the evo-lu-tion of slip rate over ex-tended pe-ri- 
+ []
+
+
+Overfull \hbox (17.32016pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 ods. The FNO for-mu-la-tion is time-continuous and can be dis-cretized as needed for train- 
+ []
+
+
+Overfull \hbox (5.0994pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 ing and ap-pli-ca-tion. Fur-ther-more, the FNO en-ables the use of data gen-er-ated at vary- 
+ []
+
+
+Overfull \hbox (17.87627pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 ing spa-tial and tem-po-ral dis-cretiza-tions. Tra-di-tional solvers must ad-here to sta-bil-ity con- 
+ []
+
+
+Overfull \hbox (2.59883pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 di-tion to main-tain sta-bil-ity, whereas this con-straint does not ap-ply to FNOs, al-low-ing 
+ []
+
+
+Overfull \hbox (9.79321pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 for greater flex-i-bil-ity in dis-cretiza-tion and time step-ping. Third, the FNO shows po-ten- 
+ []
+
+
+Overfull \hbox (3.43199pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 tial for suc-cess-ful gen-er-al-iza-tion to un-seen stress and fric-tional con-di-tion al-though our 
+ []
+
+
+Overfull \hbox (21.4593pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 find-ings sug-gest that the per-for-mance will fur-ther im-prove by train-ing on larger data sets. 
+ []
+
+
+Overfull \hbox (11.45924pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 In ad-di-tion, in-cor-po-rat-ing stress per-tur-ba-tions for rup-ture nu-cle-ation en-ables the model 
+ []
+
+
+Overfull \hbox (4.82167pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 to learn the op-er-a-tor more flex-i-bly, as one can vary the nu-cle-ation site lo-ca-tion, nu-cle- 
+ []
+
+
+Overfull \hbox (22.48807pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 ation ra-dius, or even the spa-tial dis-tri-bu-tion of the per-tur-ba-tion. Lastly, this model serves 
+ []
+
+
+Overfull \hbox (11.65413pt too wide) in paragraph at lines 771--772
+\OT1/lmr/m/n/10 as a proof-of-concept for sim-u-lat-ing rup-ture sce-nar-ios given the ini-tial con-di-tions at any 
+ []
+
+
+Overfull \hbox (13.01517pt too wide) in paragraph at lines 773--774
+[]\OT1/lmr/m/n/10 We con-clude with a dis-cus-sion of lim-i-ta-tions and po-ten-tial fu-ture di-rec-tions. First, 
+ []
+
+
+Overfull \hbox (0.6813pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 this work as-sumes a spe-cific mean and stan-dard de-vi-a-tion for the in-put dis-tri-bu-tions. 
+ []
+
+
+Overfull \hbox (8.62683pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 Fu-ture work should ex-plore train-ing the FNO on datasets with more di-verse pa-ram-e-ter 
+ []
+
+
+Overfull \hbox (36.87663pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 dis-tri-bu-tions and non-dimensional quan-ti-ties. Sec-ond, the cur-rent FNO is trained on datasets 
+ []
+
+
+Overfull \hbox (0.90338pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 gen-er-ated us-ing a con-stant nor-mal stress. To be more re-al-is-tic, train-ing the model on 
+ []
+
+
+Overfull \hbox (28.70949pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 a het-ero-ge-neous nor-mal stress is de-sir-able. Third, the FNO is trained for pre-dic-tions within 
+ []
+
+
+Overfull \hbox (7.37685pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 a fixed time in-ter-val. Ex-tend-ing the pre-dic-tion hori-zon be-yond a spe-cific in-ter-val could 
+ []
+
+
+Overfull \hbox (6.37749pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 in-volve re-cur-sive train-ing, en-abling the model to pre-dict slip evo-lu-tion it-er-a-tively. Fur- 
+ []
+
+
+Overfull \hbox (6.18102pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 ther-more, a hy-brid ap-proach com-bin-ing tra-di-tional nu-mer-i-cal solvers with FNOs could 
+ []
+
+
+Overfull \hbox (12.12608pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 en-able long-range pre-dic-tions. A key as-pect of this ap-proach would be defin-ing a ro-bust 
+ []
+
+
+Overfull \hbox (9.43204pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 cri-te-rion, such as a physics-guided er-ror thresh-old, for switch-ing be-tween FNO and tra- 
+ []
+
+
+Overfull \hbox (11.12643pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 di-tional solvers. In ad-di-tion, in-ves-ti-gat-ing more ad-vanced sur-ro-gate model ar-chi-tec-tures 
+ []
+
+
+Overfull \hbox (5.43173pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 may fur-ther en-hance per-for-mance. Fi-nally, ac-cess to larger train-ing datasets and more 
+ []
+
+
+Overfull \hbox (5.77876pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 GPUs will fur-ther im-prove the per-for-mance of FNOs and their abil-ity to gen-er-al-ize. A 
+ []
+
+
+Overfull \hbox (14.90244pt too wide) in paragraph at lines 773--774
+\OT1/lmr/m/n/10 com-mu-nity ef-fort for cre-at-ing a database for dy-namic rup-ture sim-u-la-tions would be ben- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Overfull \hbox (13.07071pt too wide) in paragraph at lines 933--934
+[]\OT1/lmr/m/n/10 Rupture is nu-cle-ated by ap-ply-ing a time- and space-dependent per-tur-ba-tion to the 
+ []
+
+
+Overfull \hbox (6.4028pt too wide) in paragraph at lines 933--934
+\OT1/lmr/m/n/10 hor-i-zon-tal shear trac-tion. The per-tur-ba-tion grows smoothly from zero to its max-i-mum 
+ []
+
+
+Overfull \hbox (6.16042pt too wide) in paragraph at lines 933--934
+\OT1/lmr/m/n/10 am-pli-tude $^^A\OML/lmm/m/it/10 ^^\[]$ \OT1/lmr/m/n/10 over a fi-nite time in-ter-val ($\OML/lmm/m/it/10 T$\OT1/lmr/m/n/10 ) and is con-fined to a cir-cu-lar re-gion of ra- 
+ []
+
+
+Overfull \hbox (8.01552pt too wide) in paragraph at lines 960--961
+[]\OT1/lmr/m/n/10 This sec-tion presents the train-ing strate-gies and the in-flu-ence of hy-per-pa-ram-e-ters 
+ []
+
+
+Overfull \hbox (4.90453pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 on pre-dic-tion ac-cu-racy. We reuse the hy-per-pa-ram-e-ters tuned on a three-feature model 
+ []
+
+
+Overfull \hbox (19.68205pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 (ini-tial shear stress and fric-tional pa-ram-e-ters). The only change is pre-pro-cess-ing: feature- 
+ []
+
+
+Overfull \hbox (7.93103pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 wise nor-mal-iza-tion is re-com-puted to ac-com-mo-date 14 in-put fea-tures. While this choice 
+ []
+
+
+Overfull \hbox (3.79288pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 re-duces com-pute, it may be slightly sub-op-ti-mal. For the 2D dy-namic rup-ture dataset, 
+ []
+
+
+Overfull \hbox (9.54227pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 we tune the model by vary-ing the num-ber of Fourier modes, the num-ber of Fourier lay- 
+ []
+
+
+Overfull \hbox (9.04234pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 ers, and the learn-ing rate over 50 epochs. The num-ber of re-tained Fourier modes is ini- 
+ []
+
+
+Overfull \hbox (13.7096pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 tially se-lected as 16 and 32, while the num-ber of Fourier lay-ers is set to 4, 5, and 6. The 
+ []
+
+
+Overfull \hbox (19.11855pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 depth of the fully con-nected lay-ers $\OML/lmm/m/it/10 P$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 Q$ \OT1/lmr/m/n/10 is cho-sen from 32, 64, 128, and 256. We con- 
+ []
+
+
+Overfull \hbox (1.12573pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 sider two learn-ing rates, 0.001 and 0.0005, while fix-ing the batch size at 10. Based on 
+ []
+
+
+Overfull \hbox (6.62564pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 Ta-ble B1[], we find that mod-els with four Fourier lay-ers gen-er-ally yield the low-est er-ror, 
+ []
+
+
+Overfull \hbox (7.7091pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 with the best-performing can-di-dates high-lighted in bold. These can-di-dates are se-lected 
+ []
+
+
+Overfull \hbox (12.43114pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 based on a bal-ance be-tween the to-tal num-ber of pa-ram-e-ters in the FNO model and pre- 
+ []
+
+
+Overfull \hbox (1.6263pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 dic-tion ac-cu-racy. We fur-ther train these mod-els for 500 epochs, and the dif-fer-ences in 
+ []
+
+
+Overfull \hbox (6.47282pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror among the top three mod-els re-main in-signif-i-cant, specif-i-cally within a 
+ []
+
+
+Overfull \hbox (7.31949pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 1%$ dif-fer-ence. Con-se-quently, we se-lect the fi-nal model as the one with the low-est num- 
+ []
+
+
+Overfull \hbox (14.01465pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 ber of pa-ram-e-ters, con-sist-ing of four Fourier lay-ers, 32 Fourier modes, a width of 128 for 
+ []
+
+
+Overfull \hbox (14.34785pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 the lift-ing and pro-jec-tion lay-ers, and a learn-ing rate of 0.001. This model is then fur-ther 
+ []
+
+
+Overfull \hbox (4.51524pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 trained for up to 10,000 epochs un-til the train-ing and test-ing losses sat-u-rate. This ap- 
+ []
+
+
+Overfull \hbox (1.98633pt too wide) in paragraph at lines 960--961
+\OT1/lmr/m/n/10 proach helps save com-pu-ta-tional re-sources and al-lows for more ef-fi-cient hy-per-pa-ram-e- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--963
+[]\OT1/lmr/bx/n/9 Table B1. \OT1/lmr/m/n/9 Rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-rors for dif-fer-ent hy-per-pa-ram-e-ter con-fig-u-ra-tions, in-clud-ing the num-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--963
+\OT1/lmr/m/n/9 ber of Fourier lay-ers, modes, learn-ing rate, and the widths of $\OML/lmm/m/it/9 P$ \OT1/lmr/m/n/9 and $\OML/lmm/m/it/9 Q$\OT1/lmr/m/n/9 , on the 2D dy-namic
+ []
+
+
+Overfull \hbox (26.83772pt too wide) in paragraph at lines 965--991
+ [][] 
+ []
+
+
+Overfull \hbox (12.23643pt too wide) in paragraph at lines 993--994
+[]\OT1/lmr/m/n/10 To im-prove gen-er-al-iz-abil-ity, we pro-pose train-ing on a larger num-ber of re-al-iza-tions 
+ []
+
+
+Overfull \hbox (27.79381pt too wide) in paragraph at lines 993--994
+\OT1/lmr/m/n/10 while keep-ing the ar-chi-tec-ture and hy-per-pa-ram-e-ters fixed. We as-sess the ef-fect of the train- 
+ []
+
+
+Overfull \hbox (12.04158pt too wide) in paragraph at lines 993--994
+\OT1/lmr/m/n/10 ing set size by us-ing 25%, 50%, 75%, and 100% of the avail-able 28,700 re-al-iza-tions. The 
+ []
+
+
+Overfull \hbox (26.14108pt too wide) in paragraph at lines 993--994
+\OT1/lmr/m/n/10 rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror is then eval-u-ated on a test-ing set of 3,280 re-al-iza-tions. The train-ing losses 
+ []
+
+
+Overfull \hbox (0.2371pt too wide) in paragraph at lines 993--994
+\OT1/lmr/m/n/10 for the dif-fer-ent train-ing set sizes are shown in Fig-ure B1[]. At epoch 500, the gen-er-al- 
+ []
+
+
+Overfull \hbox (6.7374pt too wide) in paragraph at lines 993--994
+\OT1/lmr/m/n/10 iza-tion gap be-tween the train-ing and test-ing losses de-creases as the num-ber of train-ing 
+ []
+
+
+Overfull \hbox (2.47481pt too wide) in paragraph at lines 993--994
+\OT1/lmr/m/n/10 re-al-iza-tions in-creases. Like-wise, the rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror on the test-ing set de-creases with 
+ []
+
+
+Overfull \hbox (9.88863pt too wide) in paragraph at lines 993--994
+\OT1/lmr/m/n/10 larger train-ing sets. The rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-rors for train-ing on 25%, 50%, 75%, and 100% of 
+ []
+
+
+Overfull \hbox (10.87564pt too wide) in paragraph at lines 993--994
+\OT1/lmr/m/n/10 the data are 0.0377, 0.0304, 0.0281, and 0.0266, re-spec-tively. This im-prove-ment demon- 
+ []
+
+[24]
+<figures/V2/loss_numdata_2.png, id=130, 433.62pt x 289.08pt>
+File: figures/V2/loss_numdata_2.png Graphic file (type png)
+<use figures/V2/loss_numdata_2.png>
+Package pdftex.def Info: figures/V2/loss_numdata_2.png  used on input line 997.
+(pdftex.def)             Requested size: 278.23827pt x 185.50018pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--998
+[]\OT1/lmr/bx/n/9 Figure  B1. []\OT1/lmr/m/n/9 Train-ing and test-ing losses for dif-fer-ent num-bers of train-ing re-al-iza-tions: 25%,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--998
+\OT1/lmr/m/n/9 50%, 75%, and 100% of 7,380 sets. Solid lines show train-ing losses, and dashed lines show test-ing
+ []
+
+
+Overfull \hbox (2.93143pt too wide) in paragraph at lines 1020--1021
+[]\OT1/lmr/m/n/10 For the 3D dy-namic rup-ture dataset, we pri-mar-ily tune the model while keep-ing 
+ []
+
+
+Overfull \hbox (8.04237pt too wide) in paragraph at lines 1020--1021
+\OT1/lmr/m/n/10 the num-ber of Fourier lay-ers fixed at four, based on in-sights from the 2D dy-namic rup- 
+ []
+
+
+Overfull \hbox (4.29274pt too wide) in paragraph at lines 1020--1021
+\OT1/lmr/m/n/10 ture dataset. The num-ber of re-tained Fourier modes is ini-tially se-lected as 16, 32, and 
+ []
+
+
+Overfull \hbox (22.84016pt too wide) in paragraph at lines 1020--1021
+\OT1/lmr/m/n/10 64, while the depth of $\OML/lmm/m/it/10 P$ \OT1/lmr/m/n/10 and $\OML/lmm/m/it/10 Q$ \OT1/lmr/m/n/10 is cho-sen from 32, 64, and 128. We con-sider learn-ing rates 
+ []
+
+
+Overfull \hbox (3.153pt too wide) in paragraph at lines 1020--1021
+\OT1/lmr/m/n/10 of 0.001 and 0.0005. The re-sults of the tun-ing pro-cess are pre-sented in Ta-ble B2[]. The 
+ []
+
+
+Overfull \hbox (6.18462pt too wide) in paragraph at lines 1020--1021
+\OT1/lmr/m/n/10 op-ti-mal model is se-lected with four Fourier lay-ers, 32 Fourier modes, 128 neu-rons in $\OML/lmm/m/it/10 P$ 
+ []
+
+[25 <./figures/V2/loss_numdata_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1024
+[]\OT1/lmr/bx/n/9 Table B2. \OT1/lmr/m/n/9 Rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-rors for dif-fer-ent hy-per-pa-ram-e-ter con-fig-u-ra-tions, in-clud-ing the num-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1024
+\OT1/lmr/m/n/9 ber of Fourier lay-ers, modes, learn-ing rate, and the widths of $\OML/lmm/m/it/9 P$ \OT1/lmr/m/n/9 and $\OML/lmm/m/it/9 Q$\OT1/lmr/m/n/9 , tested on data from a 3D
+ []
+
+
+Overfull \hbox (3.40405pt too wide) in paragraph at lines 1047--1048
+[]\OT1/lmr/m/n/10 As an ad-di-tional val-i-da-tion met-ric, we com-pare the FNO pre-dic-tions against the 
+ []
+
+
+Overfull \hbox (5.47542pt too wide) in paragraph at lines 1047--1048
+\OT1/lmr/m/n/10 ground truth us-ing the $\OML/lmm/m/it/10 Q$ \OT1/lmr/m/n/10 met-ric, which is specif-i-cally de-signed for time-series com-par- 
+ []
+
+
+Overfull \hbox (5.0584pt too wide) in paragraph at lines 1047--1048
+\OT1/lmr/m/n/10 isons in dy-namic rup-ture sim-u-la-tions []Barall & Har-ris, 2015). The $\OML/lmm/m/it/10 Q$ \OT1/lmr/m/n/10 met-ric is de-fined 
+ []
+
+
+Overfull \hbox (5.06111pt too wide) in paragraph at lines 1053--1055
+\OT1/lmr/m/n/10 where $\OML/lmm/m/it/10 f\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 t\OT1/lmr/m/n/10 )$ de-notes the vec-tor of slip rate pre-dic-tions from the FNO model, $\OML/lmm/m/it/10 g\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 t\OT1/lmr/m/n/10 )$ rep-re- 
+ []
+
+
+Overfull \hbox (7.9281pt too wide) in paragraph at lines 1053--1055
+\OT1/lmr/m/n/10 sents the cor-re-spond-ing ground truth val-ues, and $\OML/lmm/m/it/10 t[]$ \OT1/lmr/m/n/10 is a tem-po-ral shift ap-plied to align 
+ []
+
+
+Overfull \hbox (9.3493pt too wide) in paragraph at lines 1061--1062
+[]\OT1/lmr/m/n/10 For il-lus-tra-tion, we se-lect three rep-re-sen-ta-tive cases from the 3D dy-namic rup-ture 
+ []
+
+
+Overfull \hbox (7.447pt too wide) in paragraph at lines 1061--1062
+\OT1/lmr/m/n/10 dataset, cor-re-spond-ing to rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-rors equal to the me-dian, me-dian+2MAD, and 
+ []
+
+
+Overfull \hbox (6.11595pt too wide) in paragraph at lines 1061--1062
+\OT1/lmr/m/n/10 me-dian+4MAD. For each case, we com-pute $\OML/lmm/m/it/10 Q$ \OT1/lmr/m/n/10 and re-port the as-so-ci-ated op-ti-mal shift 
+ []
+
+
+Overfull \hbox (10.3767pt too wide) in paragraph at lines 1063--1064
+[]\OT1/lmr/m/n/10 Figures C1[]--C3[] present the rup-ture front evo-lu-tion and slip rate his-to-ries for these 
+ []
+
+
+Overfull \hbox (1.94666pt too wide) in paragraph at lines 1063--1064
+\OT1/lmr/m/n/10 cases. The com-puted $\OML/lmm/m/it/10 Q$ \OT1/lmr/m/n/10 val-ues are 12.94%, 20.6%, and 39.6%, with cor-re-spond-ing op- 
+ []
+
+
+Overfull \hbox (12.89107pt too wide) in paragraph at lines 1063--1064
+\OT1/lmr/m/n/10 ti-mal time shifts $\OML/lmm/m/it/10 t[]$ \OT1/lmr/m/n/10 of 0.005s, 0.004s, and 0.025s, re-spec-tively. Fig-ure C4[] shows the rel- 
+ []
+
+
+Overfull \hbox (9.28333pt too wide) in paragraph at lines 1063--1064
+\OT1/lmr/m/n/10 a-tive er-ror of the peak $\OML/lmm/m/it/10 V[]$ \OT1/lmr/m/n/10 as a func-tion of time step for the case with rel-a-tive $\OML/lmm/m/it/10 L[]$ \OT1/lmr/m/n/10 er-ror 
+ []
+
+
+Overfull \hbox (17.34804pt too wide) in paragraph at lines 1063--1064
+\OT1/lmr/m/n/10 closes to the me-dian. The er-ror in-creases af-ter time step 40, which marks the stage when 
+ []
+
+
+Overfull \hbox (11.73755pt too wide) in paragraph at lines 1063--1064
+\OT1/lmr/m/n/10 the rup-ture ar-rives at the VS bound-aries. This in-tro-duces higher-frequency com-po-nents 
+ []
+
+
+Overfull \hbox (14.48729pt too wide) in paragraph at lines 1063--1064
+\OT1/lmr/m/n/10 into the slip rate field that are more chal-leng-ing to cap-ture. Ad-di-tional con-tribut-ing fac- 
+ []
+
+
+Overfull \hbox (10.01512pt too wide) in paragraph at lines 1063--1064
+\OT1/lmr/m/n/10 tors in-clude the lim-ited avail-abil-ity of train-ing sam-ples, par-tic-u-larly for cases where the 
+ []
+
+
+Overfull \hbox (11.20906pt too wide) in paragraph at lines 1063--1064
+\OT1/lmr/m/n/10 rup-ture reaches the bound-aries, the re-stric-tion im-posed by the cho-sen num-ber of modes 
+ []
+
+<figures/V2/app_med.png, id=136, 856.8813pt x 273.1806pt>
+File: figures/V2/app_med.png Graphic file (type png)
+<use figures/V2/app_med.png>
+Package pdftex.def Info: figures/V2/app_med.png  used on input line 1069.
+(pdftex.def)             Requested size: 397.48499pt x 126.7192pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+[]\OT1/lmr/bx/n/9 Figure  C1. []\OT1/lmr/m/n/9 Re-sults of FNO-2D on the test-ing dataset for a 3D dy-namic rup-ture case with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+\OT1/lmr/m/n/9 a rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-ror of 0.130 (me-dian) and an NRMSE of 0.00354. The in-puts in-clude the ini-tial
+ []
+
+<figures/V2/app_med_2mad.png, id=137, 856.8813pt x 273.1806pt>
+File: figures/V2/app_med_2mad.png Graphic file (type png)
+<use figures/V2/app_med_2mad.png>
+Package pdftex.def Info: figures/V2/app_med_2mad.png  used on input line 1075.
+(pdftex.def)             Requested size: 397.48499pt x 126.7192pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1076
+[]\OT1/lmr/bx/n/9 Figure  C2. []\OT1/lmr/m/n/9 Re-sults of FNO-2D on the test-ing dataset for a 3D dy-namic rup-ture case with a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1076
+\OT1/lmr/m/n/9 rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-ror of 0.207 (me-dian+2MAD) and an NRMSE of 0.00531. The in-puts in-clude the
+ []
+
+<figures/V2/app_med_4mad.png, id=138, 856.8813pt x 273.1806pt>
+File: figures/V2/app_med_4mad.png Graphic file (type png)
+<use figures/V2/app_med_4mad.png>
+Package pdftex.def Info: figures/V2/app_med_4mad.png  used on input line 1081.
+(pdftex.def)             Requested size: 397.48499pt x 126.7192pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1082--1082
+[]\OT1/lmr/bx/n/9 Figure  C3. []\OT1/lmr/m/n/9 Re-sults of FNO-2D on the test-ing dataset for a 3D dy-namic rup-ture case with a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1082--1082
+\OT1/lmr/m/n/9 rel-a-tive $\OML/lmm/m/it/9 L[]$ \OT1/lmr/m/n/9 er-ror of 0.408 (me-dian+4MAD) and an NRMSE of 0.0108. The in-puts in-clude the
+ []
+
+<figures/V2/error_time_2.png, id=139, 604.221pt x 215.934pt>
+File: figures/V2/error_time_2.png Graphic file (type png)
+<use figures/V2/error_time_2.png>
+Package pdftex.def Info: figures/V2/error_time_2.png  used on input line 1087.
+(pdftex.def)             Requested size: 357.73405pt x 127.84476pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1088
+[]\OT1/lmr/bx/n/9 Figure  C4. []\OT1/lmr/m/n/9 Top: Con-tours of the ground-truth slip rate $\OML/lmm/m/it/9 V[]$ \OT1/lmr/m/n/9 at time steps 20, 40, and 58,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1088
+\OT1/lmr/m/n/9 il-lus-trat-ing rup-ture prop-a-ga-tion and the stages when rup-ture reaches the fault bound-aries. Bot-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1088
+\OT1/lmr/m/n/9 tom: Tem-po-ral evo-lu-tion of the rel-a-tive er-ror in the peak slip rate, with ver-ti-cal lines mark-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1088
+\OT1/lmr/m/n/9 the ref-er-ence time steps (20, 40, and 58). The last two ver-ti-cal lines (in red) in-di-cate when the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1088
+\OT1/lmr/m/n/9 rup-ture front reaches the bound-aries, lead-ing to higher er-ror due to the emer-gence of high-
+ []
+
+
+Overfull \hbox (17.93199pt too wide) in paragraph at lines 1094--1095
+[]\OT1/lmr/m/n/10 All data used in the anal-y-sis are avail-able on-line at []Tainpakdipat et al.[] (2025). The 
+ []
+
+
+Overfull \hbox (4.95905pt too wide) in paragraph at lines 1094--1095
+\OT1/lmr/m/n/10 FNO soft-ware used to con-duct the nu-mer-i-cal ex-per-i-ments will be made avail-able upon 
+ []
+
+[26] [27 <./figures/V2/app_med.png> <./figures/V2/app_med_2mad.png> <./figures/V2/app_med_4mad.png>]
+Overfull \hbox (35.2089pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 The study was sup-ported by the Na-tional Sci-ence Foun-da-tion (CA-REER award No. 1753249 
+ []
+
+
+Overfull \hbox (1.8205pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 and OAC-2311207) and the South-ern/Statewide Cal-i-for-nia Earth-quake Cen-ter (based 
+ []
+
+
+Overfull \hbox (53.29193pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 on NSF Co-op-er-a-tive Agree-ment EAR-1600087 and USGS Co-op-er-a-tive Agree-ment G17AC00047). 
+ []
+
+
+Overfull \hbox (7.30617pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 We also ac-knowl-edge fund-ing pro-vided by DOE EERE Geother-mal Tech-nolo-gies Of-fice 
+ []
+
+
+Overfull \hbox (0.75154pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 to Utah FORGE and the Uni-ver-sity of Utah un-der Project DE-EE0007080 En-hanced 
+ []
+
+
+Overfull \hbox (8.16782pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 Geother-mal Sys-tem Con-cept Test-ing and De-vel-op-ment at the Mil-ford City, Utah Fron- 
+ []
+
+
+Overfull \hbox (20.90463pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 tier Ob-ser-va-tory for Re-search in Geother-mal En-ergy (Utah FORGE) site. This work used 
+ []
+
+
+Overfull \hbox (0.15364pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 Delta at the Na-tional Cen-ter for Su-per-com-put-ing Ap-pli-ca-tions (NCSA) through al-lo- 
+ []
+
+
+Overfull \hbox (17.01471pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 ca-tion EES230038 from the Ad-vanced Cy-ber-in-fras-truc-ture Co-or-di-na-tion Ecosys-tem: Ser- 
+ []
+
+
+Overfull \hbox (16.51453pt too wide) in paragraph at lines 1099--1101
+\OT1/lmr/m/n/10 vices & Sup-port (AC-CESS) pro-gram, which is sup-ported by U.S. Na-tional Sci-ence Foun- 
+ []
+
+(./main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 16--28
+\OT1/lmr/m/n/10 in the pres-ence of litho-static nor-mal stresses: Im-pli-ca-tions for fric-tion mod-els 
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 16--28
+\OT1/lmr/m/n/10 and heat pro-duc-tion.  \OT1/lmr/m/it/10 Bul-letin of the Seis-mo-log-i-cal So-ci-ety of Amer-ica\OT1/lmr/m/n/10 , \OT1/lmr/m/it/10 91\OT1/lmr/m/n/10 (6), 
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 42--53
+[]\OT1/lmr/m/n/10 Abdelmeguid, M., & El-banna, A.  (2022).  Mod-el-ing se-quences of earth-quakes and 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--53
+\OT1/lmr/m/n/10 aseis-mic slip (seas) in elasto-plastic fault zones with a hy-brid fi-nite el-e-ment 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--53
+\OT1/lmr/m/n/10 spec-tral bound-ary in-te-gral scheme.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid 
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 67--79
+[]\OT1/lmr/m/n/10 Abdelmeguid, M., Ma, X., & El-banna, A.  (2019).  A novel hy-brid fi-nite element- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--79
+\OT1/lmr/m/n/10 spectral bound-ary in-te-gral scheme for mod-el-ing earth-quake cy-cles: Ap-pli-ca-tion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--79
+\OT1/lmr/m/n/10 to rate and state faults with low-velocity zones.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal Re- 
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 93--104
+[]\OT1/lmr/m/n/10 Ampuero, J.-P., & Ru-bin, A. M.  (2008).  Earth-quake nu-cle-ation on rate and state 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--104
+\OT1/lmr/m/n/10 faults--aging and slip laws.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid Earth\OT1/lmr/m/n/10 , 
+ []
+
+[28 <./figures/V2/error_time_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 206--217
+\OT1/lmr/m/n/10 6.0 am-a-trice, cen-tral italy, earth-quake through dy-namic rup-ture sim-u-la-tions. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--244
+[]\OT1/lmr/m/n/10 Arrowsmith, S. J., Trug-man, D. T., Mac-Carthy, J., Bergen, K. J., Lum-ley, D., & 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--271
+[]\OT1/lmr/m/n/10 Azizzadenesheli, K., Ko-vachki, N., Li, Z., Liu-Schiaffini, M., Kos-saifi, J., & Anand- 
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 308--318
+[]\OT1/lmr/m/n/10 Barbot, S.  (2022).  A rate-, state-, and temperature-dependent fric-tion law with 
+ []
+
+
+Underfull \hbox (badness 3209) in paragraph at lines 330--340
+[]\OT1/lmr/m/n/10 Ben-Zion, Y.  (2008).  Col-lec-tive be-hav-ior of earth-quakes and faults: Continuum- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--340
+\OT1/lmr/m/n/10 discrete tran-si-tions, pro-gres-sive evo-lu-tion-ary changes, and dif-fer-ent dy-namic 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--365
+\OT1/lmr/m/n/10 in an elas-tic solid.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid Earth\OT1/lmr/m/n/10 , \OT1/lmr/m/it/10 102\OT1/lmr/m/n/10 (B8), 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--423
+\OT1/lmr/m/n/10 Ad-vanc-ing in-no-va-tion: Nsf's ad-vanced cy-ber-in-fras-truc-ture co-or-di-na-tion ecosys- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--423
+\OT1/lmr/m/n/10 tem: Ser-vices & sup-port.  In \OT1/lmr/m/it/10 Prac-tice and ex-pe-ri-ence in ad-vanced re-search 
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 467--478
+\OT1/lmr/m/n/10 cesses of the punch-bowl fault, san an-dreas sys-tem, cal-i-for-nia.  \OT1/lmr/m/it/10 Tectono-physics\OT1/lmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--530
+[]\OT1/lmr/m/n/10 Cuomo, S., Di Cola, V. S., Gi-ampaolo, F., Rozza, G., Raissi, M., & Pic-cialli, F. 
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 544--555
+[]\OT1/lmr/m/n/10 Dalguer, L. A., & Day, S. M.  (2007).  Staggered-grid split-node method for spon- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--555
+\OT1/lmr/m/n/10 ta-neous rup-ture sim-u-la-tion.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid Earth\OT1/lmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 567--577
+\OT1/lmr/m/n/10 gen-eral three-dimensional rup-ture prop-a-ga-tion.  \OT1/lmr/m/it/10 Geo-phys-i-cal Jour-nal In-ter-na- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+[]\OT1/lmr/m/n/10 de Hoop, M. V., Huang, D. Z., Qian, E., & Stu-art, A. M.  (2022).  The cost- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--627
+\OT1/lmr/m/n/10 accuracy trade-off in op-er-a-tor learn-ing with neu-ral net-works.  \OT1/lmr/m/it/10 arXiv preprint 
+ []
+
+[29]
+Underfull \hbox (badness 6961) in paragraph at lines 663--674
+[]\OT1/lmr/m/n/10 Duan, B., & Oglesby, D. D.  (2006).  Het-ero-ge-neous fault stresses from pre-vi-ous 
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 689--702
+[]\OT1/lmr/m/n/10 Gabriel, A.-A., Am-puero, J.-P., Dalguer, L., & Mai, P. M.  (2012).  The tran-si-tion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--702
+\OT1/lmr/m/n/10 of dy-namic rup-ture styles in elas-tic me-dia un-der velocity-weakening fric-tion. 
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 717--732
+[]\OT1/lmr/m/n/10 Gallovi^^Tc, F., Va-len-tov^^Sa, []L., Am-puero, J.-P., & Gabriel, A.-A.  (2019a).  Bayesian 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--732
+\OT1/lmr/m/n/10 Dy-namic Finite-Fault In-ver-sion: 1. Method and Syn-thetic Test.  \OT1/lmr/m/it/10 Jour-nal 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--732
+\OT1/lmr/m/it/10 of Geo-phys-i-cal Re-search: Solid Earth\OT1/lmr/m/n/10 , \OT1/lmr/m/it/10 124\OT1/lmr/m/n/10 (7), 6949--6969.  doi: $10 [] .1029 / 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--760
+\OT1/lmr/m/n/10 namic finite-fault in-ver-sion: 2. ap-pli-ca-tion to the 2016 mw 6.2 am-a-trice, italy, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--813
+[]\OT1/lmr/m/n/10 Harris, R. A., Bar-all, M., Aa-gaard, B., Ma, S., Roten, D., Olsen, K., ... oth-ers 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--813
+\OT1/lmr/m/n/10 (2018).  A suite of ex-er-cises for ver-i-fy-ing dy-namic earth-quake rup-ture codes. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--841
+[]\OT1/lmr/m/n/10 Harris, R. A., Bar-all, M., Archuleta, R., Dun-ham, E., Aa-gaard, B., Am-puero, J. P., 
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 855--866
+[]\OT1/lmr/m/n/10 Hendrycks, D., & Gim-pel, K.  (2016).  Gaus-sian er-ror lin-ear units (gelus).  \OT1/lmr/m/it/10 arXiv 
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 878--888
+[]\OT1/lmr/m/n/10 Hirata, T.  (1989).  A cor-re-la-tion be-tween the b value and the frac-tal di-men-sion 
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 878--888
+\OT1/lmr/m/n/10 of earth-quakes.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid Earth\OT1/lmr/m/n/10 , \OT1/lmr/m/it/10 94\OT1/lmr/m/n/10 (B6), 7507-- 
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 902--914
+[]\OT1/lmr/m/n/10 Ikari, M. J., Marone, C., & Saf-fer, D. M.  (2011).  On the re-la-tion be-tween fault 
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 928--940
+[]\OT1/lmr/m/n/10 Johnson, K. M., Burgmann, R., & Lar-son, K.  (2006).  Fric-tional prop-er-ties on the 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--940
+\OT1/lmr/m/n/10 san an-dreas fault near park-field, cal-i-for-nia, in-ferred from mod-els of af-ter-slip 
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 928--940
+\OT1/lmr/m/n/10 fol-low-ing the 2004 earth-quake.  \OT1/lmr/m/it/10 Bul-letin of the Seis-mo-log-i-cal So-ci-ety of Amer- 
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 954--966
+[]\OT1/lmr/m/n/10 Kammer, D. S., Al-ber-tini, G., & Ke, C.-Y.  (2021).  Uguca: A spectral-boundary- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1003--1019
+[]\OT1/lmr/m/n/10 Kong, Q., Zou, C., Choi, Y., Matzel, E. M., Az-iz-zade-nesheli, K., Ross, Z. E., ... 
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 1003--1019
+\OT1/lmr/m/n/10 3d seis-mic wave-field sim-u-la-tions through multi-stage train-ing.  \OT1/lmr/m/it/10 arXiv preprint 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1047
+[]\OT1/lmr/m/n/10 Kovachki, N., Li, Z., Liu, B., Az-iz-zade-nesheli, K., Bhat-tacharya, K., Stu-art, A., & 
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 1031--1047
+\OT1/lmr/m/n/10 Anand-ku-mar, A.  (2023).  Neu-ral op-er-a-tor: Learn-ing maps be-tween func-tion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1047
+\OT1/lmr/m/n/10 spaces with ap-pli-ca-tions to pdes.  \OT1/lmr/m/it/10 Jour-nal of Ma-chine Learn-ing Re-search\OT1/lmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1062--1075
+\OT1/lmr/m/n/10 for slow tec-tonic load-ing with spon-ta-neous rup-ture episodes on faults with 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1062--1075
+\OT1/lmr/m/n/10 rate-and state-dependent fric-tion.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid 
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 1090--1103
+[]\OT1/lmr/m/n/10 Lehmann, F., Gatti, F., Bertin, M., & Clouteau, D.  (2023).  Fourier neu-ral op-er- 
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 1090--1103
+\OT1/lmr/m/n/10 a-tor sur-ro-gate model to pre-dict 3d seis-mic waves prop-a-ga-tion.  \OT1/lmr/m/it/10 arXiv preprint 
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 1118--1131
+[]\OT1/lmr/m/n/10 Lehmann, F., Gatti, F., Bertin, M., & Clouteau, D.  (2024).  3d elas-tic wave prop- 
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1173--1189
+[]\OT1/lmr/m/n/10 Li, Z., Ko-vachki, N., Az-iz-zade-nesheli, K., Liu, B., Bhat-tacharya, K., Stu-art, A., 
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 1173--1189
+\OT1/lmr/m/n/10 & Anand-ku-mar, A.  (2020).  Fourier neu-ral op-er-a-tor for para-met-ric par-tial 
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 1230--1244
+[]\OT1/lmr/m/n/10 Ma, X., Ha-jaro-las-vadi, S., Al-ber-tini, G., Kam-mer, D. S., & El-banna, A. E.  (2019). 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1230--1244
+\OT1/lmr/m/n/10 A hy-brid fi-nite element-spectral bound-ary in-te-gral ap-proach: Ap-pli-ca-tions to 
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 1230--1244
+\OT1/lmr/m/n/10 dy-namic rup-ture mod-el-ing in un-bounded do-mains.  \OT1/lmr/m/it/10 In-ter-na-tional Jour-nal for 
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 1258--1270
+[]\OT1/lmr/m/n/10 Madariaga, R., Olsen, K., & Archuleta, R.  (1998).  Mod-el-ing dy-namic rup-ture in 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1286--1300
+\OT1/lmr/m/n/10 difference and finite-element mod-el-ing of seis-mic wave prop-a-ga-tion and earth- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1330
+\OT1/lmr/m/n/10 Earth-quake trans-former|an at-ten-tive deep-learning model for si-mul-ta-ne-ous 
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 1344--1356
+\OT1/lmr/m/n/10 om-e-try on earth-quake rup-ture.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid Earth\OT1/lmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 1396--1408
+[]\OT1/lmr/m/n/10 Oglesby, D. D., Archuleta, R. J., & Nielsen, S. B.  (2000).  The three-dimensional 
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 1396--1408
+\OT1/lmr/m/n/10 dy-nam-ics of dip-ping faults.  \OT1/lmr/m/it/10 Bul-letin of the Seis-mo-log-i-cal So-ci-ety of Amer-ica\OT1/lmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1420--1436
+[]\OT1/lmr/m/n/10 Rahaman, N., Baratin, A., Arpit, D., Draxler, F., Lin, M., Ham-precht, F., ... 
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 1420--1436
+\OT1/lmr/m/n/10 Courville, A.  (2019).  On the spec-tral bias of neu-ral net-works.  In \OT1/lmr/m/it/10 In-ter-na- 
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 1502--1513
+[]\OT1/lmr/m/n/10 Renard, F., & Can-dela, T.  (2017).  Scal-ing of fault rough-ness and im-pli-ca-tions for 
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 1528--1541
+[]\OT1/lmr/m/n/10 Ripperger, J., Am-puero, J.-P., Mai, P., & Gi-a-r-dini, D.  (2007).  Earth-quake source 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1528--1541
+\OT1/lmr/m/n/10 char-ac-ter-is-tics from dy-namic rup-ture with con-strained stochas-tic fault stress. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1583--1597
+[]\OT1/lmr/m/n/10 Ross, Z. E., Yue, Y., Meier, M.-A., Hauks-son, E., & Heaton, T. H.  (2019). 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1583--1597
+\OT1/lmr/m/n/10 Phaselink: A deep learn-ing ap-proach to seis-mic phase as-so-ci-a-tion.  \OT1/lmr/m/it/10 Jour-nal 
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 1647.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1634--1651
+\OT1/lmr/m/it/10 op-er-a-tors for ac-cel-er-at-ing earth-quake dy-namic rup-ture sim-u-la-tions \OT1/lmr/m/n/10 [data set]\OT1/lmr/m/it/10 . 
+ []
+
+[31]
+Underfull \hbox (badness 4036) in paragraph at lines 1666--1681
+[]\OT1/lmr/m/n/10 Ulrich, T., Gabriel, A.-A., Am-puero, J.-P., & Xu, W.  (2019).  Dy-namic vi-a-bil-ity 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1697--1711
+\OT1/lmr/m/n/10 Mod-el-ing megath-rust earth-quakes across scales: One-way cou-pling from geo- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1697--1711
+\OT1/lmr/m/n/10 dy-nam-ics and seis-mic cy-cles to dy-namic rup-ture.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1725--1736
+[]\OT1/lmr/m/n/10 Wei, W., & Fu, L.-Y.  (2022).  Small-data-driven fast seis-mic sim-u-la-tions for com- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1822
+[]\OT1/lmr/m/n/10 Yang, Y., Gao, A. F., Az-iz-zade-nesheli, K., Clay-ton, R. W., & Ross, Z. E.  (2023). 
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 1808--1822
+\OT1/lmr/m/n/10 Rapid seis-mic wave-form mod-el-ing and in-ver-sion with neu-ral op-er-a-tors.  \OT1/lmr/m/it/10 IEEE 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1834--1849
+[]\OT1/lmr/m/n/10 Yang, Y., Gao, A. F., Castel-lanos, J. C., Ross, Z. E., Az-iz-zade-nesheli, K., & Clay- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1834--1849
+\OT1/lmr/m/n/10 ton, R. W.  (2021).  Seis-mic wave prop-a-ga-tion and in-ver-sion with neu-ral 
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 1889--1900
+[]\OT1/lmr/m/n/10 Zhu, W., & Beroza, G. C.  (2019).  Phasenet: a deep-neural-network-based seis-mic 
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 1889--1900
+\OT1/lmr/m/n/10 arrival-time pick-ing method.  \OT1/lmr/m/it/10 Geo-phys-i-cal Jour-nal In-ter-na-tional\OT1/lmr/m/n/10 , \OT1/lmr/m/it/10 216\OT1/lmr/m/n/10 (1), 261-- 
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 1914--1926
+[]\OT1/lmr/m/n/10 Zhu, W., Mousavi, S. M., & Beroza, G. C.  (2019).  Seis-mic sig-nal de-nois-ing and 
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 1914--1926
+\OT1/lmr/m/n/10 de-com-po-si-tion us-ing deep neu-ral net-works.  \OT1/lmr/m/it/10 IEEE Trans-ac-tions on Geo-science 
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 1942--1956
+[]\OT1/lmr/m/n/10 Zhu, W., Tai, K. S., Mousavi, S. M., Bailis, P., & Beroza, G. C.  (2022).  An end- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1956
+\OT1/lmr/m/n/10 to-end earth-quake de-tec-tion method for joint phase pick-ing and as-so-ci-a-tion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1956
+\OT1/lmr/m/n/10 us-ing deep learn-ing.  \OT1/lmr/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid Earth\OT1/lmr/m/n/10 , \OT1/lmr/m/it/10 127\OT1/lmr/m/n/10 (3), 
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 1971--1984
+[]\OT1/lmr/m/n/10 Zou, C., Az-iz-zade-nesheli, K., Ross, Z. E., & Clay-ton, R. W.  (2024).  Deep neu-ral 
+ []
+
+) [32{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}] (./main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 7112 strings out of 474116
+ 112781 string characters out of 5743681
+ 1948187 words of memory out of 5000000
+ 29289 multiletter control sequences out of 15000+600000
+ 620738 words of font info for 82 fonts, out of 8000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 72i,18n,79p,1996b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (32 pages, 19598211 bytes).
+PDF statistics:
+ 274 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
